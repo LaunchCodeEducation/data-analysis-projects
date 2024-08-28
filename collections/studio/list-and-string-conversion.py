@@ -7,6 +7,16 @@ strings = [proto_list1, proto_list2, proto_list3, proto_list4]
 
 # a) Use the 'in' method to check to see if the words in each string are separated by commas (,), semicolons (;) or just spaces.
 
+test = proto_list1
+
+if ";" in test:
+    print("Semicolons")
+elif " " and "," in test:
+    print("Comma-spaces")
+elif "," in test:
+    print ("Commas")
+else:
+    print("Spaces")
 
 # b) If the string uses commas to separate the words, split it into an array, reverse the entries, and then join the array into a new comma separated string.
 
