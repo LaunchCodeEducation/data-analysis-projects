@@ -1,9 +1,9 @@
 engine_indicator_light = "red blinking"
 space_suits_on = True
 shuttle_cabin_ready = True
-crewStatus = space_suits_on and shuttle_cabin_ready
-computerStatusCode = 200
-shuttleSpeed = 15000
+crew_status = space_suits_on and shuttle_cabin_ready
+computer_status_code = 200
+shuttle_speed = 15000
 
 # 3) Write conditional expressions to satisfy the following safety rules:
 
