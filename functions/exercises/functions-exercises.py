@@ -11,23 +11,23 @@ print(make_line(5))
 # Part 1 B -- Make a Square
 # create a function using your make_line function to code a square
 
-# def make_square(size):
-#     square = ""
-#     for i in range(size):
-#         square += (make_line(size)+"\n")
-#     return square
+def make_square(size):
+    square = ""
+    for i in range(size):
+        square += (make_line(size)+"\n")
+    return square
         
-# print(make_square(6))
+print(make_square(6))
 
 # Part 1 C -- Make a Rectangle
 
-# def make_rectangle(width, height):
-#     rectangle = ""
-#     for i in range(height):
-#         rectangle += (make_line(width)+"\n")
-#     return rectangle
+def make_rectangle(width, height):
+    rectangle = ""
+    for i in range(height):
+        rectangle += (make_line(width)+"\n")
+    return rectangle
         
-# print(make_rectangle(9,10))
+print(make_rectangle(9,10))
 
 # Part 2 A -- Make a Stairs
 
