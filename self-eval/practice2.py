@@ -1,4 +1,4 @@
-# practice shadow variables or parameters or whatever it's called
+# practice variable shadowing
 def remove_hyphens(phone_number):
    without_hyphens = phone_number.replace('-', '')
    return without_hyphens
@@ -39,3 +39,13 @@ def add_numbers_together(num):
       print(total)
 
 add_numbers_together(1)
+
+# Set default parameters
+
+def add_numbers_together(num=1, total=0):
+   while num < 100:
+      total += num
+      num += 1
+   return total
+
+print(add_numbers_together())
