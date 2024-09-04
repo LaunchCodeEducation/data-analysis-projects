@@ -65,6 +65,7 @@ def reverse_list_characters(listicle):
             reverse_item = "".join(reverse_string)
             empty_list.append(reverse_item)
 
+    empty_list.reverse()
     return empty_list
 
 print(reverse_list_characters(list_test3))
