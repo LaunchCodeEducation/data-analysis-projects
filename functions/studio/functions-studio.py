@@ -51,23 +51,25 @@ list_test1 = ['apple', 'potato', 'Capitalized Words']
 list_test2 = [123, 8897, 42, 1168, 8675309]
 list_test3 = ['hello', 'world', 123, 'orange']
 
-def reverse_list_characters(listicle):
+def reverse_list_entire(listicle):
     empty_list = []
     for obj in listicle:
-        if type(obj) is int:
-            reverse_string = list(str(obj))
-            reverse_string.reverse()
-            reverse_item = "".join(reverse_string)
-            empty_list.append(int(reverse_item))
-        else:
-            reverse_string = list(obj)
-            reverse_string.reverse()
-            reverse_item = "".join(reverse_string)
-            empty_list.append(reverse_item)
+        reverse_item = reverse_string_or_int(obj)
+        empty_list.append(reverse_item)
 
     empty_list.reverse()
     return empty_list
 
-print(reverse_list_characters(list_test3))
+print(reverse_list_entire(list_test1))
 
-
+# Junk code I added because I didn't think to use my previously defined functions
+        # if type(obj) is int:
+        #     reverse_string = list(str(obj))
+        #     reverse_string.reverse()
+        #     reverse_item = "".join(reverse_string)
+        #     empty_list.append(int(reverse_item))
+        # else:
+        #     reverse_string = list(obj)
+        #     reverse_string.reverse()
+        #     reverse_item = "".join(reverse_string)
+        #     empty_list.append(reverse_item)
