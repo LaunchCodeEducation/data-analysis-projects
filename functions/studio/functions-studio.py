@@ -32,7 +32,7 @@ def reverse_string_or_int(obj):
         reverse_item = "Invalid entry"
     return reverse_item
 
-print(reverse_string_or_int("Don't have a cow man"))
+print(reverse_string_or_int(8675309))
 
 # 3) Create a new function with one parameter, which is the list we want to change. The function should:
 # a) Define and initialize an empty list.
@@ -55,7 +55,7 @@ def reverse_list_entire(listicle):
     empty_list.reverse()
     return empty_list
 
-print(reverse_list_entire(list_test1))
+print(reverse_list_entire(list_test2))
 
 # Junk code I added because I didn't think to use my previously defined functions
         # if type(obj) is int:
