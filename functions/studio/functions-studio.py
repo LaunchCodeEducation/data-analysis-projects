@@ -25,19 +25,14 @@ print(reverse_characters(twister))
 
 def reverse_string_or_int(obj):
     if type(obj) == str:
-        reverse_string = list(obj)
-        reverse_string.reverse()
-        reverse_list = "".join(reverse_string)
+        reverse_item = reverse_characters(obj)
     elif type(obj) == int:
-        reverse_string = list(str(obj))
-        reverse_string.reverse()
-        reverse_list = "".join(reverse_string)
-        int(reverse_list)
+        reverse_item = reverse_characters(str(obj))
     else:
-        reverse_list = "Invalid entry"
-    return reverse_list
+        reverse_item = "Invalid entry"
+    return reverse_item
 
-print(reverse_string_or_int(8675309))
+print(reverse_string_or_int("Don't have a cow man"))
 
 # 3) Create a new function with one parameter, which is the list we want to change. The function should:
 # a) Define and initialize an empty list.
