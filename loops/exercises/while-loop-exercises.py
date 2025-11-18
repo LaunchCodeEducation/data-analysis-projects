@@ -1,5 +1,7 @@
 # Define three variables for the LaunchCode shuttle - one for the starting fuel level, another for the number of astronauts aboard, and the third for the altitude the shuttle reaches.
-
+starting_fuel_level = 100
+number_of_astronauts_aboard = 8
+altitude_shuttle_reached = 1600
 
 
 
