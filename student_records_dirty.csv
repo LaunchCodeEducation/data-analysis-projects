@@ -1,0 +1,356 @@
+student_id,first_name,last_name,age,major,enrollment_date,course_grade,gpa,tuition_paid
+17270,Taylor,Chen,23,Bio ,2024-02-28,12,3.8,17548.1
+10860,Olivia,Martinez,73,Computer Science,"January 30, 2024",12,2.7,13129.13
+15390,Priya,Garcia,52,bio,2024-02-10,95,1.9,19051.36
+15191,Priya,Anderson,61,CS,2024-02-08,3,2.0,17242.61
+15734,Noah,Wilson,36,Comp Sci,"February 08, 2024",-20,3.2,
+16265,Sam,Chen,81,psych,"April 23, 2024",88,3.5,20527.69
+10466,Evan,Anderson,24,Psych ,2024-05-26,-20,, 20000 
+14426,Emma, Lopez,32,CS,2024-05-06,N/A,3.5,20537.3
+15578,Noah,Brown ,30,Psych ,2024-02-15,12,1.9,18016.2
+18322,Liam,Patel,31,Biology,2024-02-14,52,3.8,21382.1
+11685,Jordan,Smith,82,BIO ,2024-01-01,100,,17487.13
+10769,Evan,Chen,48,computer science,"January 15, 2024",N/A,3.2,16823.98
+16949,Zoe,Martinez,79,BIO ,2024-04-17,0,1.9,18067.64
+12433,Taylor,Brown,67,Comp Sci,2024-01-19,100,,18254.65
+15311,Jamie ,Johnson,41,Psychology,2024-03-12, ninety ,1.9,16343.04
+15051,Zoe,Clark,74,Comp Sci,2024-04-18,N/A,2.0,16759.24
+16420,Ben,Nguyen,79,BIO ,"April 24, 2024",95,1.9,14932.81
+11184,Liam,Martinez,78,PSYCH ,"March 27, 2024", ninety ,3.2,16913.39
+14555,Emma,Wilson,38,Bio ,"May 27, 2024",76,N/A,19690.78
+13385,Aisha,Clark,74,bio,2024-03-30,N/A,2.7,17656.61
+16396,Noah,Clark,74,PSYCH ,2024-04-12, ninety ,,20522.66
+18666,Jordan,Lopez,65,PSYCH ,"April 06, 2024",88,2.0,17536.43
+19274,Luis,Nguyen,68,Bio ,2024-01-08,100,3.2,14421.21
+12558,Ravi ,Patel,58,Bio ,2024-06-01,64,1.9,19493.19
+17849,Maria,Patel,86,Biology,"January 21, 2024",64,2.0,16315.94
+12047,Sam,Garcia,31,CS,"January 05, 2024",88,3.2,17416.58
+12747,Priya,ANDERSON,70,Psychology,"March 02, 2024",76,N/A,21093.93
+19167,Priya,Davis,76,Psychology,"January 24, 2024",0,2.0,15097.82
+19998,Mia,Clark,24,PSYCH ,"January 22, 2024",76,2.0,18411.86
+10189,Ravi,Garcia,69,Psych ,2024-05-25,95,2.7,17898.7
+12734,Luis,Wilson,76,Biology,"January 08, 2024",12,3.5,19752.31
+13005,Maria,Anderson,21,PSYCH ,2024-05-06,-20,,20137.88
+14658,Zoe,Clark,84,computer science,2024-03-22,100,2.7,N/A
+11899,Ravi,Brown,22,bio,2024-05-26,76,3.8,17099.06
+17734,Aisha,Nguyen,63,Bio ,"March 26, 2024",52,,19183.43
+11267,Maria,Davis,71,CS,2024-03-24,95,2.7,21339.14
+11528, Chloe,Johnson,56,psych,2024-04-22, 85,1.9,17931.78
+13556,Chloe,Lopez,68,Bio ,"March 12, 2024",3,,17331.86
+13890,Ravi,Nguyen,32,computer science,"March 30, 2024", 85,,18970.43
+18838,Maria,Garcia,29,Psych ,2024-05-22,0,3.2,18096.82
+15393,Maria,Smith,46,Comp Sci,2024-02-10,95,1.9,14655.73
+18792,Sam,Kim,35,Comp Sci,"April 14, 2024",100,3.8,18598.33
+18433,Liam,Davis ,33,BIO ,"May 11, 2024", ninety ,3.5,14633.09
+17513,Mia,Davis,79,computer science,2024-04-14,N/A,2.0,18936.2
+12612,Luis,Wilson,35,BIO ,"February 18, 2024",-20,N/A,16007.14
+17041,Taylor ,Lopez,74,PSYCH ,"April 22, 2024",3,2.7,18092.19
+19555,EMMA,Chen,71,psych,"February 26, 2024", 85,3.2,18976.48
+16235,Priya,Patel,78,Computer Science,2024-02-20,3,2.7,24134.76
+15486,Jordan,Patel,39,Bio ,2024-04-27,52,3.8,19856.87
+17099,Noah,Smith,25,Computer Science,"February 17, 2024",52,2.0,21412.0
+19670,Luis,Brown,28,Psych ,2024-02-08, ninety ,3.8,22679.37
+10775,Maria,WILSON,17,PSYCH ,2024-01-28,0,, 20000 
+18226,Luis, Brown,74,Psychology,"April 15, 2024",52,N/A,18714.22
+13152,Maria,Johnson,17,Bio ,2024-03-24,95,3.8,15333.2
+11585,Jordan,Anderson,50,BIO ,"January 02, 2024",-20,2.7,17708.43
+13943,Olivia,Nguyen,64,Psychology,2024-04-26,100,1.9,16192.28
+17555,AISHA,Kim,17,CS,2024-01-02, ninety ,1.9,16997.35
+13073,Luis,Martinez,32,psych,2024-04-02,95,,22676.66
+11021,Mia,CHEN,77,psych,"January 13, 2024",64,3.5,18286.55
+13843,Jamie,Garcia,80,Comp Sci,"May 22, 2024",N/A,2.7,15810.25
+17989, Priya,Clark,79,Biology,"April 14, 2024",N/A,2.7,21436.33
+19692,Noah, Martinez,85,Bio ,2024-03-21,52,3.8,20388.19
+16873,Jordan,Anderson,38,BIO ,"April 24, 2024",64,N/A,20519.13
+15675,Mia,Martinez,83,Psych ,"March 22, 2024",76,2.7,12984.67
+10161,Sam,Wilson,42,Computer Science,"May 27, 2024",76,3.2,22871.68
+14297,Jamie,Clark,32,Psych ,"February 29, 2024",100,3.5,16603.71
+10995,Priya,Davis,67,Psychology,2024-03-02,52,3.8,19944.89
+17629,Ethan,Smith,73,Psychology,2024-02-18, 85,3.2,24309.5
+19467,Chloe,Patel,45,computer science,2024-05-06,95,,23388.33
+11016,Sam,Johnson,85,CS,"March 10, 2024",52,1.9,15556.09
+17869,Priya,Brown,63,Bio ,"May 05, 2024",12,,14388.71
+16439,Ethan,Kim,78,psych,"May 20, 2024",3,1.9,21575.87
+17892,Liam,Wilson,85,bio,"May 10, 2024",100,,18355.14
+16863,Priya,Smith,32,BIO ,"May 03, 2024",N/A,2.7,16747.8
+17916,Liam,Davis,64,Psych ,2024-04-16,76,3.2,19553.05
+18529,RAVI,Garcia,55,BIO ,2024-05-25,88,1.9,17592.8
+10878,Chloe,Johnson,49,Psychology,2024-04-08,76,3.8,19753.31
+19268,Jamie,Wilson,39,Biology,2024-03-13,100,3.2,18167.45
+14887,Liam,Davis,26,Comp Sci,2024-05-01,N/A,3.8,19805.97
+14859,Ben,Kim,85,Computer Science,2024-01-30,100,3.2,15763.67
+16331,Maria,Patel,50,CS,"February 04, 2024",3,3.2,21561.16
+18571,Jamie,Patel,68,Biology,"May 14, 2024",N/A,,19744.06
+18684,Jordan,Wilson,26,CS,"February 11, 2024",0,1.9,19615.74
+17208,Jamie,Patel,35,computer science,"January 03, 2024",88,1.9,N/A
+15276,Liam,Smith,74,bio,"January 19, 2024",52,N/A,22249.08
+12062,Liam,Smith,17,Psychology,2024-02-10,0,3.2,17965.71
+10064,Alex,Brown,85,Comp Sci,2024-03-03,64,2.7,19820.12
+18006,Sam,Wilson,20,Bio ,2024-01-23,88,2.7,17192.94
+12568,Ben,Brown,32,Biology,2024-03-15,N/A,3.8,18652.22
+15463,Ethan ,Wilson,40,CS,2024-02-17,N/A,3.8,18742.82
+12027,Jamie,Garcia,18,psych,"January 07, 2024",12,,10950.17
+12695,Alex,Wilson,48,computer science,2024-04-27, ninety ,3.2,19456.12
+19687,Ethan,Kim,40,psych,2024-04-09,12,3.8,22913.35
+15258,Luis,Anderson,28,Comp Sci,"January 14, 2024",-20,3.8,19349.45
+15618,Liam,Johnson,66,Bio ,"May 16, 2024",12,3.5,15605.73
+16736,Noah, Lopez,51,Bio ,"January 03, 2024",95,3.2,19624.9
+10391,Liam,Clark ,49,Biology,2024-01-07,64,2.0,20648.7
+15892,Aisha,Lopez,49,BIO ,"February 12, 2024",0,,19281.17
+13561,Taylor,Davis,77,computer science,2024-02-25,3,3.8,17814.68
+16184,Sam,Patel,67,Bio ,"February 09, 2024",0,,17394.63
+13099,Evan,Johnson,59,Bio ,2024-02-16,0,1.9,17384.23
+16278,Priya,Martinez,230,Biology,2024-05-27,88,,19744.44
+18392,Noah,Anderson,83,Psychology,"May 01, 2024",N/A,2.0,14482.19
+13104,Liam,Smith,81,PSYCH ,"January 04, 2024",-20,2.7,17070.32
+17215,Ben,Nguyen,49,computer science,"February 18, 2024",-20,2.0,
+12454,Aisha,Chen,56,psych,2024-05-05,3,2.7,22085.49
+18996,Aisha,Garcia,59,Comp Sci,"May 31, 2024",64,,14304.63
+12731,Noah,Patel,60,Bio ,"May 20, 2024",88,2.7,15171.47
+18154,Evan,Patel,45,Bio ,2024-03-04,76,1.9,17323.45
+19762,Chloe,Kim,29,bio,"January 23, 2024",100,3.2,20231.47
+15056,Taylor,Patel,28,Psychology,2024-04-25,12,2.7,13431.31
+18110,Jordan,Smith,62,Bio ,"February 20, 2024",100,2.7,17862.98
+13840, Emma,Smith,18,PSYCH ,2024-01-31,100,,16814.55
+11028,Liam,Chen,51,bio,2024-04-22,52,1.9,
+17385,Olivia,Clark,24,Computer Science,2024-03-07,100,N/A,13807.73
+10502,Evan,Wilson,42,Psychology,2024-03-15,-20,N/A,18231.35
+16910,Jordan,Martinez,50,Comp Sci,2024-02-14,12,N/A,17015.98
+19062,Liam,Johnson,23,CS,"April 16, 2024",12,N/A,21674.5
+16938,Emma,Patel,84,computer science,"January 01, 2024",95,3.2,19494.13
+14488,Ravi,Lopez,74,Biology,"January 02, 2024",64,2.0,16535.46
+10206,Luis,Brown,45,Comp Sci,"March 21, 2024",52,,20133.47
+15134,Ravi,Kim,52,computer science,2024-02-20,100,,17027.93
+15977,Jamie,Kim,37,bio,"June 01, 2024", ninety ,3.5,20498.32
+17721, Jordan,Clark,52,BIO ,"April 18, 2024",76,1.9,17407.31
+17035,Liam,Lopez,26,Biology,2024-05-04,0,N/A,20636.67
+11484,Maria,Davis,89,Psych ,"April 01, 2024",N/A,3.2,19090.2
+17858,Ethan,LOPEZ,40,psych,2024-01-30,95,1.9,26151.23
+10863,Sam,Anderson,80,Computer Science,2024-05-01,12,N/A,17867.76
+12790,Ben ,Davis,65,Psychology,2024-05-04,12,3.2,18957.16
+17408,Evan,Nguyen,52,Bio ,2024-02-06, 85,1.9,N/A
+18755,Aisha,Brown ,40,BIO ,"January 17, 2024",52,,18006.71
+15116,Luis,Kim,39,BIO ,2024-05-03,100,,11245.41
+16019,Jordan,Lopez,78,Comp Sci,2024-02-04,52,2.0,19163.96
+11757,Mia,Nguyen,53,Computer Science,2024-03-27, 85,3.8,21357.19
+17574,Priya,Wilson,28,CS,2024-05-13,0,2.0,
+16374,Taylor,Garcia,71,computer science,"February 12, 2024",52,2.7,14715.35
+16892,ZOE,Johnson,29,computer science,"April 30, 2024",12,2.0,15995.53
+11678,Taylor,Nguyen,39,Comp Sci,"February 17, 2024",-20,N/A,11924.52
+13242,Chloe,Clark,46,PSYCH ,"May 11, 2024",88,3.5,20447.31
+14636,Taylor,Anderson,33,PSYCH ,2024-03-17,12,1.9,15483.72
+11059,Ravi,Johnson ,78,Bio ,2024-02-28,95,3.5,17928.23
+16668,Olivia,Lopez,29,Psych ,2024-05-05,64,3.8,17615.66
+19914,Ravi,Martinez,75,psych,2024-04-18, 85,2.7,21719.32
+13157,Aisha,Wilson,35,Biology,"March 11, 2024",76,1.9,18213.2
+15915,Alex,Nguyen,65,CS,"May 04, 2024",N/A,3.2,20022.23
+19789,Chloe,Brown,28,Bio ,2024-03-08,76,N/A,19366.16
+12693,Chloe,Lopez,77,Computer Science,2024-03-09,12,2.7,21398.53
+13627,Emma,Patel,35,PSYCH ,"January 12, 2024",95,,17402.19
+19555,Mia,Smith,25,Psych ,"May 31, 2024",100,3.8,22674.04
+15450,Olivia,Nguyen,87,Psych ,"January 09, 2024",12,2.7,13035.84
+11663,Taylor,Brown,44,Comp Sci,2024-02-11,64,N/A,20143.68
+19721,Maria,Anderson,68,CS,2024-04-18,-20,2.0,15833.45
+15592,ZOE,Garcia,32,bio,2024-02-20,0,2.7,16768.13
+17392,Olivia,Patel,85,Biology,"April 06, 2024", ninety ,2.0,19423.54
+11306,Evan,Garcia,28,psych,2024-01-21,N/A,N/A,19403.51
+16776,Noah,Lopez,41,Psychology,"May 26, 2024",64,,19516.07
+15864,Alex,Smith,-12,Comp Sci,2024-05-18, 85,1.9,14534.61
+19474,Sam,Nguyen,69,Biology,2024-04-01,100,3.2,21622.58
+17526, Mia,Nguyen,39,Psychology,"May 06, 2024", 85,,15748.38
+18901,Mia,Martinez,32,Psychology,2024-05-04,12,2.0,16081.78
+15575,Ben,Kim,73,CS,2024-04-20,95,2.0,19594.74
+15530,Noah,Martinez,55,CS,2024-05-18,64,3.2,17283.2
+14413,Jordan,Clark,69,Bio ,"April 29, 2024",3,1.9,18770.65
+13748,Emma,Lopez,58,Computer Science,2024-04-08,100,2.7,12608.5
+10663,Jordan,Lopez,74,Psych ,"April 08, 2024",95,3.2,18710.81
+11998,Taylor,Smith,55,Biology,2024-04-13,-20,3.8,18544.58
+17994,Ravi,Martinez,30,Comp Sci,"March 01, 2024",100,3.8,16725.35
+11495,Maria,Brown,21,Bio ,"April 05, 2024", 85,N/A,12814.81
+13304,Liam,Brown,51,computer science,2024-05-31,100,,17467.98
+13763,Luis,Smith,34,Comp Sci,"April 06, 2024", ninety ,2.0, 20000 
+15232,Evan,Wilson,25,Computer Science,"May 01, 2024",12,1.9,17081.93
+11853,Mia,Kim,74,psych,"January 12, 2024",52,N/A,13409.56
+16585,Noah,Brown,33,BIO ,2024-01-08, 85,,21986.84
+11291,Zoe,Davis,23,BIO ,"May 10, 2024", ninety ,,N/A
+13581,Jordan,Clark,62,Psych ,2024-01-05,N/A,N/A,17444.49
+17554,Mia,Johnson,29,BIO ,2024-05-24,88,3.5,11976.31
+17280,Emma,Smith,56,BIO ,2024-04-10,52,, 20000 
+11636,Zoe,Smith,58,computer science,"January 11, 2024",12,3.5,16833.63
+13696,Noah,Chen,25,PSYCH ,2024-05-26,3,3.8,18246.16
+10698,Maria,Clark,66,psych,2024-03-04,52,3.8,20801.84
+14737,Ravi,Patel,43,CS,2024-03-31,N/A,,16309.24
+10854,Olivia,Patel,82,Psychology,2024-04-26,95,3.8,20408.11
+18164,Mia,Davis,230,PSYCH ,"April 23, 2024",3,1.9,12846.69
+15855,Ethan,Martinez,45,Comp Sci,"January 20, 2024", 85,3.5,19377.47
+17392,Priya,Clark,53,Comp Sci,2024-02-16,3,3.5,21930.61
+16528,Zoe,Wilson,54,BIO ,2024-05-19,64,,16548.96
+15249,Sam,LOPEZ,24,CS,"April 02, 2024",N/A,3.8,20797.2
+15172,Ben,Lopez,81,Computer Science,2024-05-28,100,3.2,22584.81
+11707,Priya,Garcia,33,Biology,"April 02, 2024", ninety ,2.0,17362.9
+15791,Maria,Davis,87,PSYCH ,2024-01-05,52,N/A,17156.18
+19925,Alex,Smith,61,PSYCH ,"January 31, 2024",64,N/A,15754.27
+15535,Sam,davis,20,bio,2024-01-20,0,3.5,16725.67
+14931,Mia,Davis,52,psych,2024-02-15,3,,15961.6
+13510,Jordan,Anderson,86,Psych ,2024-01-12,64,,15752.22
+10202,Maria,Davis,47,psych,2024-03-10,76,1.9,
+14218,Ravi,Patel,35,Biology,2024-01-17,N/A,2.7, 20000 
+18958,Olivia,Anderson,77,Comp Sci,2024-05-26, ninety ,2.0,18646.3
+14389,Chloe,Davis,70,Comp Sci,"January 01, 2024",-20,2.7,18095.58
+12327,Mia,Kim ,55,Comp Sci,"May 30, 2024",95,3.5,21745.24
+18004,Olivia,JOHNSON,35,bio,2024-04-17,3,N/A,16742.11
+12931,Ethan,Lopez,55,Comp Sci,"March 23, 2024",N/A,1.9,18952.87
+17777,Jamie,Anderson,83,Biology,2024-03-10,-20,1.9,N/A
+10197,Emma,Garcia,61,Bio ,"January 30, 2024",-20,1.9,21724.37
+17125,Ravi,Clark,29,CS,"April 06, 2024",0,3.5,16705.62
+11930,Jamie,Johnson,74,Psych ,"March 15, 2024",12,2.7,16455.27
+16287,Mia,Garcia,36,Biology,2024-04-11, ninety ,N/A,N/A
+18800,Emma,Chen,88,BIO ,2024-03-15,64,1.9,23590.75
+19339,Chloe,Garcia,77,Bio ,"March 03, 2024",-20,N/A,21461.18
+14282,Zoe,Lopez,55,Psych ,"February 19, 2024",76,3.8,17894.5
+12511,Evan, Lopez,17,Biology,"February 08, 2024",0,,22828.6
+19986,Maria,Anderson,19,Bio ,"April 05, 2024",N/A,,17745.34
+10659,Olivia,Davis,78,Comp Sci,"March 29, 2024",0,N/A,19811.03
+12811,Maria,Nguyen,79,CS,"January 26, 2024",88,3.2,18025.43
+17098,Zoe,Chen,41,PSYCH ,"March 06, 2024",88,3.2,18994.51
+16546,Emma,Anderson,72,psych,2024-03-22,100,3.5,18729.4
+19561,Mia,Kim,49,Psychology,2024-04-01,0,3.5,16937.54
+11986,Emma,Smith,54,CS,"January 22, 2024",100,,20731.25
+18338,Evan,Brown,22,PSYCH ,"March 26, 2024",3,3.8,19789.88
+12911,Ravi,Clark,74,Computer Science,"April 16, 2024",100,2.0,20569.24
+11734,Olivia,Garcia,60,Biology,"January 10, 2024", 85,2.7,18800.57
+11843,Zoe,Nguyen,61,Computer Science,2024-02-17,64,2.7,15733.58
+18680, Taylor,Davis,48,PSYCH ,2024-04-25, 85,3.5,22273.47
+12976,Luis,Patel,61,CS,"March 12, 2024",-20,3.8,17343.61
+11959,Sam ,Smith,77,Biology,2024-05-26,N/A,3.5,18910.17
+15759,Ethan,Wilson,63,BIO ,2024-03-03,3,2.0,19588.45
+16694,Jordan,Martinez,37,Psychology,"May 20, 2024",52,2.7,18893.55
+12385,Jamie,nguyen,52,Comp Sci,2024-01-13,-20,N/A,20288.54
+14736,Noah,Patel,35,Biology,"February 05, 2024",64,3.5,20683.44
+11802,Liam,Chen,36,BIO ,"May 13, 2024",88,1.9,17437.92
+18155,Ravi,Wilson,73,Biology,"February 24, 2024", ninety ,N/A,22063.67
+18120,Jamie,Anderson,34,CS,2024-04-23,100,2.0,17332.74
+16616,Chloe,Davis,63,BIO ,2024-01-22,12,2.0,
+15534,Chloe,Smith,65,CS,"March 01, 2024",N/A,3.5,17030.8
+14061,Emma ,Smith,30,Bio ,"January 18, 2024",95,,16316.32
+10262,Mia,Smith,31,PSYCH ,2024-02-23, ninety ,3.5,20610.48
+16287,Sam,Chen,47,computer science,"May 24, 2024", 85,,N/A
+18815,Noah,Wilson,17,Biology,2024-05-05,100,2.0,17095.6
+19208,Liam,Garcia,70,psych,"May 03, 2024",3,3.8,21038.3
+12049,Alex,Martinez,19,Biology,"February 20, 2024", 85,2.0,17185.22
+15423,Sam,Kim,32,PSYCH ,"February 10, 2024",N/A,2.7,17973.79
+14548,Luis,Chen,73,Psych ,"January 16, 2024", 85,N/A,22393.96
+13108,Jamie,Brown,28,Computer Science,2024-05-31,N/A,N/A,15316.16
+17158,Noah,Clark,32,Bio ,2024-02-04, 85,3.2,14654.6
+17400,Ben,Clark,88,Comp Sci,"January 31, 2024", ninety ,3.2,17782.0
+13170,luis,Martinez,40,BIO ,"May 12, 2024",0,2.0,19659.14
+19874,Ravi,Lopez,44,computer science,2024-02-26,76,2.7,19159.17
+12255,Olivia,clark,24,Psychology,"March 09, 2024", ninety ,3.2,18901.7
+11154,EMMA,Davis,52,Psychology,"May 29, 2024",0,N/A,18085.33
+14499, Mia,Chen,24,Psychology,"January 10, 2024",52,3.5,N/A
+16295,Ethan,Patel,74,CS,2024-01-19,-20,3.8,10715.82
+16197,Zoe,Martinez,76,Psychology,"April 20, 2024",-20,3.8,16122.99
+19888,Alex,Brown,66,Comp Sci,"May 08, 2024",64,2.7,17765.97
+11648,Aisha,Lopez,44,Bio ,2024-04-22,100,2.0,19761.34
+15539,Jamie,Garcia,57,Computer Science,2024-01-30, ninety ,3.2,21724.41
+19637,Chloe,Wilson,80,Psychology,2024-05-14, ninety ,3.5,15787.25
+14199,Alex,Patel,43,Biology,2024-03-07,95,3.8,21642.7
+18445,Jordan,Anderson,79,Biology,2024-03-05,95,3.8,16868.6
+12557,Alex,Martinez,33,CS,"May 18, 2024",64,1.9,17675.23
+15592,Alex,Davis,89,Comp Sci,2024-01-25,12,2.0,19453.58
+10098,luis,Wilson,49,Computer Science,2024-02-06,-20,1.9,17491.91
+12200,Liam,Patel,45,computer science,2024-01-01,12,N/A,
+12961,Alex,Lopez,29,PSYCH ,2024-02-06,100,3.8,16988.49
+14973,Liam,PATEL,62,Computer Science,2024-05-20,N/A,2.7,17026.16
+14433,Zoe,Wilson,51,PSYCH ,"March 19, 2024",N/A,,20629.95
+12869,Evan,Johnson,22,Psych ,2024-05-15,88,,16092.19
+10956,Jordan,Kim,85,PSYCH ,"February 04, 2024", 85,3.5,18622.32
+18352,Sam,Nguyen,63,Bio ,2024-05-07,95,3.8,
+15699,Evan,Garcia,41,psych,"February 17, 2024",88,3.8,22549.1
+16944,Emma,Clark,82,Bio ,2024-05-06,52,N/A, 20000 
+14493,Chloe,Lopez,26,Biology,"April 13, 2024",64,3.8,24875.27
+19492,Mia,Wilson,72,Comp Sci,"January 11, 2024",64,2.7,21345.91
+14911,Jordan,Kim,46,bio,2024-02-04,N/A,1.9,
+13987,Aisha,Kim,21,CS,"February 10, 2024", ninety ,3.8,19671.62
+19719,Olivia,Anderson,49,psych,"February 07, 2024",-20,3.8,15704.98
+16015,Ravi,Patel,81,PSYCH ,2024-04-13,12,N/A,21945.09
+11218,Jamie,Nguyen,34,Psychology,2024-01-23,95,2.0,15247.15
+14496,Noah,Kim,65,Comp Sci,"April 21, 2024",88,3.2,15127.11
+14735,Maria,Nguyen,27,psych,"May 16, 2024",12,2.0,13975.47
+14555,Sam,Patel,42,CS,"April 16, 2024", ninety ,N/A,16779.05
+19146,Luis,Wilson,79,Biology,2024-03-15,88,2.0,16276.31
+18050,Sam,Davis,75,Comp Sci,2024-03-12,0,N/A,14845.88
+13446,Luis,JOHNSON,43,CS,"April 15, 2024", 85,2.7,22974.52
+11045,Evan,Kim,65,Psych ,"February 04, 2024",52,3.5,19324.7
+16893,Luis,Chen,49,Psych ,"January 20, 2024",52,3.8,19030.59
+11693,Chloe,Johnson,17,Bio ,"May 16, 2024",12,N/A,21972.91
+13436,Olivia,Patel,37,Bio ,2024-02-14,12,N/A,18640.64
+18754,jamie,Anderson ,71,CS,2024-03-01,12,3.2,16128.3
+15895,Jamie,Garcia,22,psych,2024-03-23,88,N/A,13749.48
+13354,Chloe,Chen,85,Bio ,2024-05-02, 85,,15987.36
+10225,Zoe,lopez,21,Comp Sci,2024-01-16,0,3.5,21763.54
+14893,Mia,Clark,19,psych,2024-03-06,76,3.8,14861.66
+17022,Evan,Anderson,69,Bio ,2024-05-24,12,3.8,18882.82
+19151,Noah,Johnson,39,computer science,"January 09, 2024",0,3.2,20584.81
+15600,Zoe,Patel,69,PSYCH ,"March 21, 2024",-20,2.7,18713.36
+17996,Ethan,Johnson,53,computer science,2024-05-23,100,3.8,18997.46
+19007,Taylor,Clark,33,BIO ,"February 04, 2024",0,,19639.01
+17683,Sam,Kim,89,Psych ,2024-01-13, ninety ,3.8,18948.2
+14642,Maria,Anderson,17,Biology,"January 31, 2024",100,,22022.69
+17679,Luis,Wilson,67,Computer Science,2024-04-20,95,3.5,15399.27
+18208,Aisha,Chen,61,PSYCH ,"May 16, 2024",95,3.5,18601.06
+17339,Emma ,Brown,20,Psych ,"May 21, 2024", ninety ,1.9,13454.4
+19435,Noah,Martinez ,78,psych,"March 02, 2024",0,1.9,12815.63
+12205,Chloe,Johnson,81,psych,2024-04-29,88,, 20000 
+11069,Olivia,Clark,48,psych,2024-02-24, ninety ,2.7,19358.45
+13444,Olivia,Lopez,50,Biology,2024-01-27,100,3.8,22076.67
+11060,Liam,Lopez,88,computer science,2024-04-27,100,N/A,24049.48
+12327,Liam,Smith,55,Computer Science,"March 08, 2024",12,3.8,21299.65
+13420,Ben,Anderson,42,Bio ,"March 18, 2024",N/A,1.9,19817.91
+10301,Ben,Johnson,50,psych,2024-02-22,64,2.0,N/A
+10606,Emma,Martinez,70,bio,"May 21, 2024",76,N/A,14171.93
+13170,Taylor,Davis,19,BIO ,"March 20, 2024",100,,17634.91
+10699,Liam,Clark ,66,PSYCH ,"January 05, 2024",-20,N/A,21225.94
+15088,Jamie,Kim,230,Comp Sci,"April 25, 2024", ninety ,2.0,20245.7
+19331,Ben,Nguyen,81,Bio ,2024-01-21, 85,3.8,14784.16
+10190, Olivia,Wilson,70,bio,2024-02-22,N/A,3.8,19535.06
+10980,Chloe,Martinez,-12,Computer Science,"May 01, 2024",100,2.7,19320.98
+12975,Sam,Nguyen,73,Biology,"May 07, 2024", ninety ,3.2,18874.73
+16102,Chloe,Anderson,33,Computer Science,"March 01, 2024",52,N/A,17930.36
+11184,Ben,Nguyen,63,Comp Sci,2024-01-31,N/A,1.9,19663.96
+13327,Priya,Brown,39,PSYCH ,"January 30, 2024",88,2.0,19743.28
+13394,Luis,Smith,30,Comp Sci,2024-01-23,76,2.0,16396.35
+18319,Maria,Martinez,82,CS,2024-02-01,3,2.0,19137.54
+11816,Aisha,Anderson,67,PSYCH ,2024-03-14,3,1.9,17526.51
+15854,Ben,Martinez,54,Computer Science,2024-01-10,12,3.2,14281.92
+16709,Maria,Brown,80,psych,2024-02-23,12,3.8,16595.98
+10569,Mia,Johnson,54,Computer Science,2024-02-21,88,2.7,N/A
+15442,Alex,Johnson ,66,Computer Science,2024-05-27, 85,2.7,20450.23
+11895,Evan,Johnson,46,PSYCH ,"January 07, 2024",12,1.9,18889.72
+12733,Olivia,Garcia,67,BIO ,2024-01-14,64,2.7,17111.27
+13863,Ravi,Nguyen,79,CS,"January 25, 2024",100,2.0,21551.3
+17455,Zoe,Garcia,68,Bio ,2024-02-22,76,3.5,18169.98
+14014,Priya,Smith,54,Computer Science,2024-01-22,0,3.2,14421.94
+11686,Taylor,Wilson,46,bio,2024-01-30, ninety ,3.8,16901.3
+13009, Olivia,Brown,67,Psych ,"February 07, 2024",0,3.5,22082.14
+17806,Zoe,Anderson,21,Psychology,"April 16, 2024",88,3.2,16326.31
+10154,Chloe,Martinez,45,Psychology,"February 21, 2024",95,,18688.05
+11409,Ravi,Kim,20,Computer Science,2024-02-28, ninety ,N/A, 20000 
+10784,Ben,Anderson,26,bio,"April 20, 2024", ninety ,1.9,19474.87
+18096,Luis ,Nguyen,72,BIO ,2024-01-12,52,2.0,24123.65
+17560,Taylor,Garcia,33,psych,2024-04-28,88,2.7,15059.24
+17343,Jordan,Garcia,33,Biology,"May 16, 2024",88,, 20000 
+17206,Taylor,Patel,85,Biology,"April 04, 2024",3,2.7,
+15596,Jordan,Garcia,50,PSYCH ,2024-05-06,-20,3.5,17260.2
+15801,Mia,wilson,22,Psychology,2024-03-15,0,3.8,20748.44
+12806,Jordan,Davis,69,Computer Science,"February 20, 2024", 85,3.8,15420.66
+10537,Taylor,Martinez,82,Biology,2024-02-18,-20,3.8,20783.4
+15986,Sam ,Davis,59,Computer Science,2024-03-19,64,2.0,18087.82
+11841,Evan,Martinez,39,PSYCH ,"March 28, 2024",95,2.7, 20000 
+18716,Aisha,Brown,71,Psychology,"January 01, 2024", ninety ,,13621.58
+16971,Ben,Martinez,32,Comp Sci,"April 30, 2024",3,3.8,14181.07
+14931,Mia,Davis,52,psych,2024-02-15,3,,15961.6
+18445,Jordan,Anderson,79,Biology,2024-03-05,95,3.8,16868.6
+13763,Luis,Smith,34,Comp Sci,"April 06, 2024", ninety ,2.0, 20000 
+17629,Ethan,Smith,73,Psychology,2024-02-18, 85,3.2,24309.5
+17777,Jamie,Anderson,83,Biology,2024-03-10,-20,1.9,N/A

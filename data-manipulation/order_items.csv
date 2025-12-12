@@ -1,0 +1,901 @@
+order_id,product_name,quantity,unit_price
+5311,Monitor,3,300
+5303,Keyboard,3,70
+5012,Keyboard,3,70
+5318,Monitor,3,300
+5080,USB Cable,1,10
+5216,USB Cable,1,10
+5339,Desk Lamp,2,45
+5264,Keyboard,1,70
+5149,Mouse,3,25
+5081,Desk Lamp,1,45
+5215,USB Cable,2,10
+5374,Monitor,2,300
+5198,USB Cable,2,10
+5200,Monitor,3,300
+5025,Desk Lamp,2,45
+5089,Keyboard,1,70
+5268,USB Cable,2,10
+5143,Monitor,2,300
+5059,Keyboard,3,70
+5410,Mouse,1,25
+5365,Monitor,1,300
+5026,Desk Lamp,1,45
+5047,Mouse,2,25
+5288,Mouse,1,25
+5266,Laptop,1,1200
+5016,USB Cable,1,10
+5199,Monitor,2,300
+5401,Mouse,1,25
+5407,Laptop,2,1200
+5282,Desk Lamp,1,45
+5086,Keyboard,1,70
+5250,Monitor,3,300
+5391,Mouse,3,25
+5270,USB Cable,2,10
+5335,Laptop,1,1200
+5117,Mouse,2,25
+5007,USB Cable,2,10
+5137,Mouse,2,25
+5371,Monitor,1,300
+5176,Monitor,2,300
+5328,Monitor,3,300
+5315,Desk Lamp,1,45
+5215,Desk Lamp,3,45
+5082,Laptop,1,1200
+5223,Monitor,2,300
+5372,USB Cable,2,10
+5423,Mouse,1,25
+5402,Keyboard,1,70
+5443,USB Cable,1,10
+5103,Desk Lamp,2,45
+5273,Desk Lamp,2,45
+5014,USB Cable,1,10
+5159,Desk Lamp,2,45
+5152,Monitor,1,300
+5108,Laptop,3,1200
+5188,Mouse,1,25
+5301,Laptop,2,1200
+5098,Mouse,2,25
+5131,Mouse,3,25
+5293,Laptop,1,1200
+5171,USB Cable,2,10
+5424,Mouse,2,25
+5183,Laptop,1,1200
+5364,Mouse,3,25
+5039,Keyboard,1,70
+5015,USB Cable,2,10
+5376,Monitor,1,300
+5004,Mouse,2,25
+5349,Keyboard,1,70
+5409,Monitor,1,300
+5397,Monitor,1,300
+5210,Mouse,1,25
+5161,Laptop,1,1200
+5016,Mouse,1,25
+5426,Keyboard,1,70
+5108,Monitor,3,300
+5382,Mouse,1,25
+5450,Laptop,2,1200
+5311,Mouse,2,25
+5227,USB Cable,1,10
+5170,Laptop,3,1200
+5034,Keyboard,1,70
+5414,Monitor,1,300
+5251,Mouse,1,25
+5247,Laptop,2,1200
+5269,USB Cable,2,10
+5141,Laptop,1,1200
+5274,Desk Lamp,1,45
+5416,USB Cable,1,10
+5096,Keyboard,2,70
+5227,Monitor,3,300
+5379,Keyboard,1,70
+5039,Mouse,2,25
+5302,Laptop,2,1200
+5029,Desk Lamp,1,45
+5446,USB Cable,1,10
+5318,USB Cable,2,10
+5245,Laptop,1,1200
+5236,Desk Lamp,1,45
+5185,Laptop,3,1200
+5272,Mouse,2,25
+5440,Keyboard,1,70
+5236,USB Cable,1,10
+5239,Mouse,2,25
+5377,Keyboard,2,70
+5266,Mouse,3,25
+5414,Desk Lamp,2,45
+5409,USB Cable,3,10
+5359,Laptop,2,1200
+5340,Laptop,2,1200
+5389,Keyboard,1,70
+5065,Monitor,1,300
+5177,Desk Lamp,1,45
+5003,Keyboard,2,70
+5429,Monitor,2,300
+5142,Mouse,1,25
+5376,Desk Lamp,1,45
+5158,Mouse,1,25
+5324,USB Cable,3,10
+5146,Desk Lamp,1,45
+5446,Monitor,1,300
+5293,USB Cable,1,10
+5153,Laptop,1,1200
+5432,Monitor,1,300
+5193,Keyboard,3,70
+5437,Laptop,3,1200
+5073,Laptop,3,1200
+5399,Keyboard,2,70
+5305,Desk Lamp,2,45
+5377,Laptop,3,1200
+5344,Monitor,1,300
+5140,USB Cable,1,10
+5187,Laptop,3,1200
+5293,Monitor,3,300
+5061,Mouse,1,25
+5427,Monitor,2,300
+5380,USB Cable,1,10
+5198,Monitor,1,300
+5295,Keyboard,3,70
+5440,USB Cable,1,10
+5319,Desk Lamp,3,45
+5302,Mouse,3,25
+5344,Keyboard,1,70
+5011,Desk Lamp,1,45
+5062,Monitor,3,300
+5333,USB Cable,1,10
+5226,Mouse,1,25
+5153,Keyboard,1,70
+5199,Desk Lamp,1,45
+5052,Desk Lamp,1,45
+5260,Mouse,2,25
+5059,Monitor,2,300
+5072,Mouse,2,25
+5148,Desk Lamp,3,45
+5349,Laptop,1,1200
+5063,Keyboard,1,70
+5310,Mouse,2,25
+5373,Desk Lamp,1,45
+5243,Monitor,2,300
+5366,Desk Lamp,1,45
+5330,Monitor,2,300
+5107,Mouse,3,25
+5226,Monitor,3,300
+5313,USB Cable,2,10
+5218,USB Cable,2,10
+5425,USB Cable,2,10
+5241,Laptop,1,1200
+5259,Mouse,3,25
+5376,Desk Lamp,1,45
+5262,Desk Lamp,1,45
+5005,Laptop,2,1200
+5261,Monitor,1,300
+5054,Laptop,3,1200
+5047,Monitor,1,300
+5215,Monitor,2,300
+5177,Keyboard,1,70
+5009,Desk Lamp,1,45
+5099,USB Cable,1,10
+5020,Monitor,3,300
+5378,Keyboard,3,70
+5241,Desk Lamp,1,45
+5061,USB Cable,2,10
+5379,Monitor,1,300
+5419,Monitor,2,300
+5178,Laptop,2,1200
+5338,Laptop,1,1200
+5062,Desk Lamp,1,45
+5145,USB Cable,2,10
+5216,Monitor,3,300
+5003,Desk Lamp,3,45
+5160,Desk Lamp,1,45
+5227,Mouse,2,25
+5269,Laptop,3,1200
+5120,USB Cable,1,10
+5381,Monitor,3,300
+5089,Desk Lamp,2,45
+5329,Monitor,1,300
+5068,Mouse,1,25
+5398,USB Cable,3,10
+5357,Desk Lamp,1,45
+5098,Monitor,2,300
+5267,Laptop,2,1200
+5105,Mouse,2,25
+5440,USB Cable,2,10
+5323,Mouse,2,25
+5123,Laptop,1,1200
+5029,USB Cable,2,10
+5137,Mouse,1,25
+5195,Keyboard,2,70
+5409,Laptop,2,1200
+5226,Laptop,1,1200
+5332,Laptop,2,1200
+5170,Keyboard,1,70
+5009,Keyboard,2,70
+5040,Monitor,1,300
+5025,Desk Lamp,1,45
+5261,Mouse,1,25
+5395,Monitor,1,300
+5443,Mouse,2,25
+5226,Desk Lamp,2,45
+5124,Keyboard,3,70
+5038,Desk Lamp,2,45
+5328,Keyboard,3,70
+5251,Desk Lamp,1,45
+5389,Monitor,1,300
+5176,USB Cable,1,10
+5090,Monitor,2,300
+5402,Mouse,2,25
+5037,Monitor,3,300
+5316,Laptop,2,1200
+5176,Mouse,1,25
+5284,Desk Lamp,3,45
+5081,Mouse,2,25
+5114,USB Cable,1,10
+5040,Keyboard,2,70
+5301,Desk Lamp,1,45
+5224,Mouse,2,25
+5318,Desk Lamp,2,45
+5349,Desk Lamp,2,45
+5115,Desk Lamp,2,45
+5186,Keyboard,3,70
+5323,Monitor,2,300
+5056,Desk Lamp,2,45
+5040,Laptop,1,1200
+5354,USB Cable,3,10
+5040,Keyboard,2,70
+5347,Mouse,1,25
+5237,Keyboard,1,70
+5289,Mouse,1,25
+5262,Keyboard,1,70
+5216,Mouse,1,25
+5147,Desk Lamp,3,45
+5336,Monitor,3,300
+5168,Mouse,3,25
+5092,Mouse,1,25
+5353,Laptop,1,1200
+5059,Mouse,1,25
+5059,Laptop,2,1200
+5304,USB Cable,2,10
+5169,Desk Lamp,3,45
+5269,Laptop,1,1200
+5363,Monitor,1,300
+5045,Desk Lamp,1,45
+5345,Laptop,2,1200
+5181,Desk Lamp,1,45
+5170,Desk Lamp,1,45
+5356,Desk Lamp,1,45
+5191,USB Cable,2,10
+5155,Monitor,2,300
+5422,Keyboard,1,70
+5188,Keyboard,1,70
+5007,Laptop,3,1200
+5133,Desk Lamp,1,45
+5235,Laptop,2,1200
+5045,USB Cable,2,10
+5314,USB Cable,1,10
+5249,Mouse,2,25
+5031,USB Cable,2,10
+5023,Mouse,3,25
+5426,Monitor,1,300
+5394,Laptop,3,1200
+5160,Monitor,1,300
+5363,USB Cable,3,10
+5437,Monitor,1,300
+5158,Monitor,2,300
+5039,Monitor,2,300
+5415,USB Cable,1,10
+5082,Desk Lamp,1,45
+5356,Monitor,2,300
+5258,Mouse,2,25
+5206,USB Cable,1,10
+5077,Monitor,3,300
+5012,Desk Lamp,1,45
+5295,USB Cable,1,10
+5450,Keyboard,3,70
+5224,Desk Lamp,3,45
+5013,Mouse,1,25
+5046,Monitor,1,300
+5155,Keyboard,2,70
+5113,Keyboard,1,70
+5233,USB Cable,1,10
+5017,Keyboard,1,70
+5360,Mouse,2,25
+5223,Mouse,1,25
+5354,Laptop,1,1200
+5188,Mouse,1,25
+5448,Desk Lamp,2,45
+5344,Keyboard,1,70
+5365,Mouse,3,25
+5163,USB Cable,1,10
+5326,Laptop,1,1200
+5414,Keyboard,2,70
+5074,Laptop,3,1200
+5233,Keyboard,2,70
+5224,USB Cable,1,10
+5319,Laptop,2,1200
+5412,Monitor,1,300
+5060,Desk Lamp,2,45
+5335,Desk Lamp,2,45
+5222,Keyboard,2,70
+5037,Monitor,2,300
+5278,Laptop,2,1200
+5196,Monitor,2,300
+5404,Monitor,1,300
+5352,Laptop,2,1200
+5242,USB Cable,1,10
+5324,Monitor,2,300
+5219,Monitor,1,300
+5192,USB Cable,2,10
+5017,Monitor,1,300
+5012,Monitor,1,300
+5406,Monitor,3,300
+5401,Desk Lamp,3,45
+5394,Mouse,2,25
+5374,USB Cable,1,10
+5193,Monitor,2,300
+5022,Desk Lamp,1,45
+5120,USB Cable,1,10
+5210,Keyboard,1,70
+5306,Keyboard,2,70
+5270,Monitor,3,300
+5192,Desk Lamp,1,45
+5175,Desk Lamp,2,45
+5285,USB Cable,1,10
+5204,USB Cable,2,10
+5164,Desk Lamp,1,45
+5251,USB Cable,2,10
+5227,Desk Lamp,2,45
+5436,Mouse,1,25
+5381,Desk Lamp,1,45
+5007,Keyboard,2,70
+5029,USB Cable,1,10
+5395,Desk Lamp,1,45
+5033,Desk Lamp,1,45
+5134,USB Cable,1,10
+5367,Mouse,2,25
+5079,Mouse,1,25
+5416,USB Cable,1,10
+5435,Laptop,1,1200
+5058,USB Cable,1,10
+5026,USB Cable,1,10
+5430,Mouse,2,25
+5226,Mouse,1,25
+5285,USB Cable,3,10
+5004,USB Cable,1,10
+5099,USB Cable,1,10
+5397,Mouse,3,25
+5039,USB Cable,1,10
+5271,USB Cable,1,10
+5375,Monitor,2,300
+5285,Laptop,1,1200
+5157,Keyboard,2,70
+5075,Laptop,3,1200
+5372,Monitor,1,300
+5288,Keyboard,2,70
+5130,USB Cable,1,10
+5175,Monitor,2,300
+5084,USB Cable,3,10
+5022,Mouse,1,25
+5027,Desk Lamp,3,45
+5195,Monitor,1,300
+5337,Mouse,1,25
+5382,Monitor,1,300
+5236,Monitor,3,300
+5440,Mouse,2,25
+5092,Keyboard,1,70
+5021,Laptop,1,1200
+5303,USB Cable,1,10
+5357,Monitor,2,300
+5443,USB Cable,1,10
+5084,Desk Lamp,2,45
+5262,Mouse,2,25
+5147,USB Cable,3,10
+5441,Mouse,1,25
+5387,USB Cable,1,10
+5257,Laptop,1,1200
+5058,Laptop,3,1200
+5380,Laptop,2,1200
+5422,Laptop,2,1200
+5015,Laptop,3,1200
+5162,Laptop,1,1200
+5445,Mouse,1,25
+5163,Monitor,2,300
+5320,USB Cable,1,10
+5281,Laptop,2,1200
+5280,Mouse,1,25
+5012,Mouse,2,25
+5274,Mouse,3,25
+5271,Monitor,1,300
+5208,USB Cable,3,10
+5027,Monitor,2,300
+5072,Keyboard,2,70
+5060,Mouse,1,25
+5430,Keyboard,1,70
+5145,Desk Lamp,1,45
+5093,Laptop,2,1200
+5309,Laptop,2,1200
+5008,Monitor,1,300
+5079,USB Cable,1,10
+5027,Keyboard,1,70
+5174,USB Cable,1,10
+5050,Monitor,1,300
+5199,Laptop,3,1200
+5387,USB Cable,2,10
+5349,USB Cable,2,10
+5448,Laptop,1,1200
+5428,Keyboard,1,70
+5181,Laptop,2,1200
+5024,USB Cable,2,10
+5316,Keyboard,2,70
+5378,Keyboard,2,70
+5387,Laptop,1,1200
+5404,USB Cable,1,10
+5046,Monitor,2,300
+5015,USB Cable,1,10
+5153,Mouse,2,25
+5222,Desk Lamp,1,45
+5206,Monitor,2,300
+5273,Keyboard,1,70
+5382,Monitor,2,300
+5236,Keyboard,1,70
+5340,Keyboard,1,70
+5228,Monitor,1,300
+5009,Keyboard,3,70
+5166,Keyboard,1,70
+5432,Mouse,1,25
+5444,USB Cable,1,10
+5319,USB Cable,3,10
+5214,Desk Lamp,2,45
+5117,Desk Lamp,1,45
+5386,Mouse,2,25
+5344,Desk Lamp,2,45
+5072,Monitor,3,300
+5395,Laptop,1,1200
+5064,Laptop,2,1200
+5205,Laptop,1,1200
+5209,Mouse,2,25
+5072,Mouse,1,25
+5277,Keyboard,2,70
+5274,Laptop,3,1200
+5320,Monitor,1,300
+5338,Desk Lamp,1,45
+5366,Monitor,1,300
+5095,Desk Lamp,2,45
+5166,Laptop,2,1200
+5032,Laptop,1,1200
+5011,Laptop,1,1200
+5301,Mouse,3,25
+5217,Desk Lamp,3,45
+5289,Mouse,1,25
+5102,Mouse,1,25
+5425,USB Cable,1,10
+5392,Monitor,1,300
+5267,Monitor,1,300
+5214,Keyboard,3,70
+5179,Mouse,1,25
+5088,Desk Lamp,2,45
+5041,USB Cable,2,10
+5401,USB Cable,3,10
+5076,Monitor,1,300
+5377,Mouse,2,25
+5046,Keyboard,1,70
+5160,Mouse,2,25
+5080,Laptop,2,1200
+5310,Mouse,1,25
+5086,Laptop,2,1200
+5092,Laptop,2,1200
+5148,Keyboard,1,70
+5161,Desk Lamp,3,45
+5202,Monitor,2,300
+5424,Mouse,1,25
+5416,Laptop,2,1200
+5242,Mouse,1,25
+5353,Desk Lamp,1,45
+5002,Monitor,2,300
+5225,Desk Lamp,2,45
+5289,Monitor,1,300
+5233,USB Cable,3,10
+5414,Monitor,2,300
+5417,Keyboard,1,70
+5077,Desk Lamp,2,45
+5116,Laptop,3,1200
+5154,USB Cable,2,10
+5406,Keyboard,2,70
+5103,Mouse,2,25
+5194,Desk Lamp,1,45
+5166,Laptop,1,1200
+5359,Monitor,2,300
+5090,Laptop,1,1200
+5174,Mouse,2,25
+5122,USB Cable,3,10
+5143,USB Cable,2,10
+5106,Desk Lamp,1,45
+5375,USB Cable,1,10
+5428,Desk Lamp,1,45
+5305,Desk Lamp,1,45
+5360,Desk Lamp,1,45
+5317,Monitor,2,300
+5123,Keyboard,1,70
+5390,Desk Lamp,1,45
+5009,Desk Lamp,1,45
+5262,Keyboard,2,70
+5073,Laptop,3,1200
+5359,Desk Lamp,2,45
+5223,Monitor,2,300
+5416,USB Cable,2,10
+5041,USB Cable,1,10
+5370,Mouse,2,25
+5204,Mouse,1,25
+5264,USB Cable,1,10
+5328,USB Cable,2,10
+5178,Monitor,2,300
+5348,Keyboard,1,70
+5318,Mouse,2,25
+5084,Keyboard,1,70
+5318,Monitor,1,300
+5111,USB Cable,2,10
+5251,Desk Lamp,1,45
+5383,Keyboard,2,70
+5007,USB Cable,1,10
+5084,USB Cable,1,10
+5208,Laptop,2,1200
+5388,Keyboard,1,70
+5390,Desk Lamp,3,45
+5314,Keyboard,1,70
+5022,USB Cable,1,10
+5410,Desk Lamp,1,45
+5383,Monitor,2,300
+5003,Laptop,2,1200
+5127,USB Cable,2,10
+5297,Mouse,2,25
+5188,Mouse,1,25
+5362,Laptop,2,1200
+5014,Monitor,2,300
+5012,USB Cable,3,10
+5087,Keyboard,1,70
+5012,Laptop,1,1200
+5397,Monitor,2,300
+5025,Keyboard,1,70
+5301,Mouse,1,25
+5243,Mouse,3,25
+5122,Keyboard,2,70
+5147,Laptop,2,1200
+5055,Mouse,3,25
+5238,USB Cable,2,10
+5356,Desk Lamp,3,45
+5173,Keyboard,1,70
+5392,Keyboard,2,70
+5221,Mouse,2,25
+5119,Laptop,1,1200
+5309,USB Cable,2,10
+5183,Laptop,1,1200
+5288,Monitor,3,300
+5307,Monitor,1,300
+5300,Desk Lamp,2,45
+5082,Mouse,3,25
+5402,Mouse,1,25
+5211,Mouse,1,25
+5150,Desk Lamp,1,45
+5037,Monitor,1,300
+5352,Laptop,2,1200
+5312,Desk Lamp,2,45
+5361,Desk Lamp,2,45
+5059,Laptop,3,1200
+5131,Mouse,1,25
+5412,USB Cable,2,10
+5202,Laptop,3,1200
+5243,Monitor,1,300
+5035,Keyboard,1,70
+5445,Keyboard,3,70
+5093,Desk Lamp,1,45
+5438,Keyboard,1,70
+5447,USB Cable,1,10
+5207,Mouse,1,25
+5353,Monitor,1,300
+5391,USB Cable,1,10
+5332,Monitor,1,300
+5305,Monitor,2,300
+5350,Mouse,3,25
+5213,Desk Lamp,1,45
+5159,Keyboard,1,70
+5442,Mouse,2,25
+5445,USB Cable,1,10
+5024,Desk Lamp,2,45
+5404,USB Cable,2,10
+5293,Desk Lamp,1,45
+5004,USB Cable,1,10
+5220,Mouse,2,25
+5364,Desk Lamp,2,45
+5382,Desk Lamp,1,45
+5020,Monitor,1,300
+5444,Monitor,1,300
+5152,Laptop,1,1200
+5050,USB Cable,1,10
+5177,Monitor,3,300
+5435,Laptop,1,1200
+5096,Monitor,1,300
+5105,USB Cable,2,10
+5420,Desk Lamp,2,45
+5250,Keyboard,3,70
+5117,USB Cable,2,10
+5354,Mouse,1,25
+5228,Monitor,3,300
+5066,Monitor,2,300
+5335,Desk Lamp,3,45
+5418,Mouse,1,25
+5420,Desk Lamp,1,45
+5262,Mouse,3,25
+5295,Keyboard,1,70
+5426,Monitor,1,300
+5243,Monitor,3,300
+5371,Keyboard,2,70
+5186,Laptop,2,1200
+5246,Desk Lamp,1,45
+5125,Keyboard,1,70
+5268,Desk Lamp,1,45
+5131,USB Cable,3,10
+5237,Monitor,1,300
+5018,Desk Lamp,3,45
+5040,Mouse,1,25
+5021,Desk Lamp,1,45
+5399,USB Cable,1,10
+5225,Monitor,1,300
+5355,Keyboard,1,70
+5282,USB Cable,3,10
+5008,Monitor,1,300
+5100,Desk Lamp,1,45
+5240,Laptop,2,1200
+5087,Laptop,1,1200
+5298,Mouse,2,25
+5428,Monitor,1,300
+5014,Laptop,2,1200
+5334,Keyboard,2,70
+5002,Monitor,2,300
+5375,Keyboard,2,70
+5293,Keyboard,1,70
+5325,Laptop,1,1200
+5422,Monitor,2,300
+5041,Desk Lamp,1,45
+5318,USB Cable,1,10
+5316,Laptop,1,1200
+5381,Laptop,1,1200
+5111,Desk Lamp,3,45
+5014,Monitor,3,300
+5231,Monitor,2,300
+5084,Keyboard,3,70
+5130,Desk Lamp,3,45
+5231,Desk Lamp,1,45
+5326,Monitor,1,300
+5145,Keyboard,1,70
+5379,Laptop,3,1200
+5345,Mouse,2,25
+5028,USB Cable,2,10
+5066,Laptop,2,1200
+5163,Monitor,1,300
+5229,USB Cable,2,10
+5261,Mouse,2,25
+5449,Mouse,1,25
+5424,Keyboard,1,70
+5440,USB Cable,3,10
+5164,Keyboard,1,70
+5301,Laptop,1,1200
+5407,Desk Lamp,1,45
+5303,Desk Lamp,1,45
+5287,Desk Lamp,2,45
+5395,USB Cable,3,10
+5010,Desk Lamp,2,45
+5195,Laptop,1,1200
+5118,Keyboard,1,70
+5270,USB Cable,1,10
+5080,Keyboard,2,70
+5093,USB Cable,2,10
+5266,Keyboard,1,70
+5332,Mouse,1,25
+5350,Keyboard,3,70
+5361,Desk Lamp,3,45
+5257,Mouse,1,25
+5133,Keyboard,3,70
+5276,USB Cable,2,10
+5264,USB Cable,2,10
+5171,USB Cable,1,10
+5001,Monitor,1,300
+5313,Laptop,1,1200
+5064,USB Cable,3,10
+5374,Mouse,2,25
+5284,USB Cable,2,10
+5121,Monitor,2,300
+5107,Desk Lamp,1,45
+5421,Mouse,2,25
+5175,Monitor,1,300
+5204,Desk Lamp,1,45
+5165,Mouse,1,25
+5305,Keyboard,3,70
+5120,Laptop,1,1200
+5044,Laptop,3,1200
+5312,Monitor,1,300
+5156,Desk Lamp,1,45
+5367,Laptop,2,1200
+5207,Desk Lamp,3,45
+5390,Desk Lamp,2,45
+5108,Monitor,2,300
+5251,Monitor,1,300
+5445,Monitor,3,300
+5404,Laptop,1,1200
+5370,Monitor,2,300
+5334,Laptop,3,1200
+5130,Monitor,2,300
+5293,USB Cable,2,10
+5020,Desk Lamp,3,45
+5282,Monitor,3,300
+5285,Mouse,2,25
+5001,Desk Lamp,2,45
+5119,Desk Lamp,1,45
+5035,Monitor,1,300
+5198,Keyboard,2,70
+5245,Monitor,3,300
+5059,Desk Lamp,1,45
+5325,Mouse,1,25
+5161,Desk Lamp,1,45
+5179,Mouse,1,25
+5206,Laptop,1,1200
+5012,USB Cable,2,10
+5276,Desk Lamp,1,45
+5181,Monitor,1,300
+5242,Laptop,1,1200
+5216,USB Cable,1,10
+5251,Monitor,2,300
+5299,Keyboard,1,70
+5126,Monitor,1,300
+5217,Mouse,3,25
+5306,Mouse,3,25
+5285,Keyboard,1,70
+5185,Laptop,1,1200
+5039,USB Cable,1,10
+5223,Monitor,3,300
+5184,Mouse,2,25
+5427,Laptop,2,1200
+5178,Keyboard,1,70
+5407,Desk Lamp,2,45
+5428,Mouse,2,25
+5294,Keyboard,1,70
+5340,Monitor,1,300
+5151,USB Cable,1,10
+5384,Mouse,1,25
+5126,Mouse,1,25
+5301,Monitor,1,300
+5308,Desk Lamp,1,45
+5336,Laptop,1,1200
+5434,USB Cable,2,10
+5234,Mouse,2,25
+5380,USB Cable,2,10
+5375,Mouse,1,25
+5008,USB Cable,1,10
+5341,Keyboard,2,70
+5129,Mouse,1,25
+5264,USB Cable,1,10
+5157,Laptop,3,1200
+5352,Keyboard,2,70
+5358,Keyboard,1,70
+5005,Laptop,2,1200
+5086,USB Cable,1,10
+5175,Monitor,1,300
+5290,Laptop,1,1200
+5193,USB Cable,2,10
+5311,Laptop,1,1200
+5119,Laptop,2,1200
+5218,Mouse,1,25
+5427,USB Cable,1,10
+5414,Monitor,1,300
+5114,Mouse,2,25
+5145,Laptop,2,1200
+5026,Desk Lamp,1,45
+5136,Laptop,2,1200
+5303,Laptop,2,1200
+5232,USB Cable,1,10
+5369,USB Cable,2,10
+5076,Mouse,1,25
+5328,Monitor,1,300
+5345,Mouse,2,25
+5302,Keyboard,1,70
+5289,Laptop,3,1200
+5001,Desk Lamp,1,45
+5147,Laptop,2,1200
+5287,Laptop,2,1200
+5142,Mouse,1,25
+5053,Desk Lamp,1,45
+5304,Desk Lamp,2,45
+5069,Desk Lamp,2,45
+5361,Mouse,1,25
+5090,Laptop,1,1200
+5446,Mouse,2,25
+5220,USB Cable,3,10
+5450,USB Cable,2,10
+5192,Mouse,1,25
+5063,Desk Lamp,1,45
+5073,Laptop,1,1200
+5161,Mouse,3,25
+5169,Mouse,1,25
+5089,Mouse,2,25
+5176,Keyboard,1,70
+5269,USB Cable,2,10
+5073,Desk Lamp,1,45
+5245,Monitor,2,300
+5077,Desk Lamp,1,45
+5159,Monitor,2,300
+5324,Keyboard,2,70
+5098,Mouse,2,25
+5381,Keyboard,1,70
+5102,Keyboard,1,70
+5132,Laptop,1,1200
+5102,USB Cable,3,10
+5019,Monitor,1,300
+5082,Mouse,3,25
+5397,Monitor,3,300
+5279,Desk Lamp,1,45
+5339,Monitor,2,300
+5365,Desk Lamp,2,45
+5331,USB Cable,2,10
+5129,Desk Lamp,2,45
+5344,Monitor,1,300
+5310,Monitor,1,300
+5089,Desk Lamp,2,45
+5213,Keyboard,1,70
+5143,USB Cable,1,10
+5065,Laptop,2,1200
+5076,Mouse,3,25
+5199,Monitor,2,300
+5143,Mouse,2,25
+5405,Laptop,2,1200
+5403,Mouse,2,25
+5316,Laptop,3,1200
+5093,Desk Lamp,3,45
+5417,Keyboard,1,70
+5305,Monitor,2,300
+5224,Laptop,2,1200
+5291,Mouse,2,25
+5428,Monitor,1,300
+5102,Keyboard,1,70
+5267,Desk Lamp,2,45
+5355,Monitor,1,300
+5110,Laptop,1,1200
+5330,Keyboard,3,70
+5450,Mouse,3,25
+5430,Keyboard,1,70
+5265,Keyboard,2,70
+5003,USB Cable,2,10
+5085,Keyboard,2,70
+5282,Keyboard,1,70
+5328,Monitor,3,300
+5304,Mouse,2,25
+5450,Monitor,2,300
+5412,Monitor,3,300
+5117,Laptop,1,1200
+5221,Monitor,3,300
+5154,USB Cable,1,10
+5153,USB Cable,2,10
+5012,Laptop,3,1200
+5133,Desk Lamp,1,45
+5304,Mouse,1,25
+5293,Mouse,1,25
+5300,Monitor,1,300
+5228,Monitor,3,300
+5271,Desk Lamp,1,45
+5043,Monitor,2,300
+5432,Mouse,3,25
+5343,Keyboard,2,70
+5326,USB Cable,2,10
+5302,Keyboard,1,70
+5364,Keyboard,1,70
+5379,Mouse,2,25
+5427,Keyboard,1,70
+5021,Desk Lamp,2,45
+5407,Laptop,1,1200
+5107,Monitor,3,300
+5336,Laptop,1,1200
+5303,USB Cable,2,10
+5117,Monitor,2,300
+5124,Keyboard,1,70
+5399,USB Cable,2,10
+5281,Monitor,1,300
