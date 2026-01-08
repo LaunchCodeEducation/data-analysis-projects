@@ -1,0 +1,315 @@
+,Branch,Call Purpose,Time Block,Incoming or Outgoing,Queue,Rep ID,Sale,Lost Call,Abandoned,Busy Minutes,Not Ready Minutes,Incoming Wait Time,During Call Wait Time,Calls
+0,South,Sales Support,10:00 AM,Incoming,D,Kate,NO,0,0,9,1,1.0,2,1
+1,South,Sales Support,10:00 AM,Incoming,C,Eric,NO,0,0,8,2,1.0,4,1
+2,South,Sales Support,10:00 AM,Incoming,C,Susan,NO,0,0,10,2,1.0,4,1
+3,South,Sales Support,10:00 AM,Incoming,C,Alice,NO,0,0,12,1,1.0,3,1
+4,South,Sales Support,12:00 PM,Incoming,C,Sandy,NO,0,0,8,3,1.0,3,1
+5,South,Sales Support,1:00 PM,Incoming,D,Karl,NO,0,0,9,1,1.0,4,1
+6,South,Product Support,11:00 AM,Incoming,C,Sandy,NO,0,0,8,1,1.0,2,1
+7,South,Product Support,12:00 PM,Incoming,C,Sandy,NO,0,0,8,1,1.0,3,1
+8,South,Product Support,2:00 PM,Incoming,D,Randy,NO,0,0,11,2,1.0,4,1
+9,South,Product Support,3:00 PM,Incoming,D,George,NO,0,0,8,3,1.0,4,1
+10,South,Product Support,3:00 PM,Incoming,D,Helga,NO,0,0,9,1,1.0,3,1
+11,South,Product Support,4:00 PM,Incoming,D,Josh,NO,0,0,11,3,1.0,3,1
+12,South,Product Support,4:00 PM,Incoming,D,George,NO,0,0,10,1,1.0,4,1
+13,South,Product Support,5:00 PM,Incoming,C,Alice,NO,0,0,11,3,1.0,3,1
+14,South,Product Support,5:00 PM,Incoming,D,Randy,NO,0,0,10,3,1.0,2,1
+15,South,Complaint,11:00 AM,Incoming,D,Randy,NO,0,0,12,3,1.0,4,1
+16,South,Complaint,12:00 PM,Incoming,D,Josh,NO,0,0,9,3,1.0,2,1
+17,South,Complaint,1:00 PM,Incoming,C,Eric,NO,0,0,12,3,1.0,3,1
+18,South,Complaint,1:00 PM,Incoming,C,Sandy,NO,0,0,10,3,1.0,3,1
+19,South,Complaint,5:00 PM,Incoming,D,Karl,NO,0,0,12,3,1.0,4,1
+20,South,Complaint,12:00 PM,Incoming,D,Randy,NO,1,0,8,3,2.0,3,1
+21,South,Sales Support,10:00 AM,Incoming,C,Eric,NO,0,0,12,1,2.0,3,1
+22,South,Sales Support,10:00 AM,Incoming,D,Randy,NO,0,0,10,1,2.0,4,1
+23,South,Sales Support,11:00 AM,Incoming,D,Kate,NO,0,0,12,3,2.0,3,1
+24,South,Sales Support,12:00 PM,Incoming,C,Eric,NO,0,0,12,3,2.0,2,1
+25,South,Sales Support,1:00 PM,Incoming,D,Randy,NO,0,0,9,2,2.0,2,1
+26,South,Product Support,10:00 AM,Incoming,C,Susan,NO,0,0,12,3,2.0,3,1
+27,South,Product Support,11:00 AM,Incoming,C,Sharon,NO,0,0,10,1,2.0,3,1
+28,South,Product Support,11:00 AM,Incoming,C,Susan,NO,0,0,12,1,2.0,4,1
+29,South,Product Support,12:00 PM,Incoming,C,Sandy,NO,0,0,9,1,2.0,2,1
+30,South,Product Support,2:00 PM,Incoming,C,Eric,NO,0,0,11,1,2.0,4,1
+31,South,Product Support,2:00 PM,Incoming,D,George,NO,0,0,11,3,2.0,2,1
+32,South,Product Support,3:00 PM,Incoming,C,Eric,NO,0,0,10,1,2.0,4,1
+33,South,Product Support,3:00 PM,Incoming,C,Eric,NO,0,0,12,1,2.0,4,1
+34,South,Product Support,3:00 PM,Incoming,D,Randy,NO,0,0,9,3,2.0,3,1
+35,South,Product Support,5:00 PM,Incoming,C,Alice,NO,0,0,10,3,2.0,4,1
+36,South,Complaint,9:00 AM,Incoming,C,Eric,NO,0,0,10,1,2.0,3,1
+37,South,Complaint,10:00 AM,Incoming,C,Sandy,NO,0,0,10,1,2.0,4,1
+38,South,Complaint,12:00 PM,Incoming,D,Kate,NO,0,0,10,1,2.0,2,1
+39,South,Complaint,12:00 PM,Incoming,D,George,NO,0,0,9,1,2.0,2,1
+40,South,Complaint,12:00 PM,Incoming,C,Susan,NO,0,0,11,1,2.0,4,1
+41,South,Complaint,1:00 PM,Incoming,C,Eric,NO,0,0,8,3,2.0,2,1
+42,South,Complaint,1:00 PM,Incoming,C,Eric,NO,0,0,9,1,2.0,4,1
+43,South,Complaint,2:00 PM,Incoming,D,Karl,NO,0,0,8,2,2.0,4,1
+44,South,Complaint,3:00 PM,Incoming,C,Susan,NO,0,0,9,1,2.0,4,1
+45,South,Complaint,3:00 PM,Incoming,D,Helga,NO,0,0,12,1,2.0,2,1
+46,South,Complaint,3:00 PM,Incoming,C,Sandy,NO,0,0,10,3,2.0,4,1
+47,South,Complaint,5:00 PM,Incoming,D,Helga,NO,0,0,10,3,2.0,3,1
+48,South,Sales Support,10:00 AM,Incoming,D,Helga,NO,0,0,8,1,3.0,4,1
+49,South,Sales Support,10:00 AM,Incoming,D,George,NO,0,0,10,2,3.0,2,1
+50,South,Sales Support,10:00 AM,Incoming,C,Sandy,NO,0,0,10,2,3.0,4,1
+51,South,Sales Support,10:00 AM,Incoming,C,Eric,NO,0,0,12,2,3.0,2,1
+52,South,Sales Support,10:00 AM,Incoming,D,Kate,NO,0,0,11,3,3.0,2,1
+53,South,Sales Support,11:00 AM,Incoming,C,Eric,NO,0,0,9,2,3.0,4,1
+54,South,Sales Support,12:00 PM,Incoming,C,Sharon,NO,0,0,8,1,3.0,4,1
+55,South,Sales Support,12:00 PM,Incoming,C,Eric,NO,0,0,10,2,3.0,3,1
+56,South,Sales Support,12:00 PM,Incoming,C,Sharon,NO,0,0,9,3,3.0,2,1
+57,South,Sales Support,12:00 PM,Incoming,D,Kate,NO,0,0,8,1,3.0,3,1
+58,South,Sales Support,12:00 PM,Incoming,D,Kate,NO,0,0,8,1,3.0,3,1
+59,South,Sales Support,12:00 PM,Incoming,C,Susan,NO,0,0,10,3,3.0,4,1
+60,South,Sales Support,1:00 PM,Incoming,C,Alice,NO,0,0,8,2,3.0,3,1
+61,South,Sales Support,2:00 PM,Incoming,D,Karl,NO,0,0,10,2,3.0,4,1
+62,South,Sales Support,2:00 PM,Incoming,C,Sandy,NO,0,0,12,2,3.0,2,1
+63,South,Sales Support,4:00 PM,Incoming,D,George,NO,0,0,11,2,3.0,2,1
+64,South,Product Support,10:00 AM,Incoming,C,Alice,NO,0,0,10,3,3.0,2,1
+65,South,Product Support,11:00 AM,Incoming,D,Helga,NO,0,0,9,3,3.0,4,1
+66,South,Product Support,12:00 PM,Incoming,C,Eric,NO,0,0,12,1,3.0,2,1
+67,South,Product Support,3:00 PM,Incoming,D,Helga,NO,0,0,11,2,3.0,4,1
+68,South,Product Support,3:00 PM,Incoming,D,Randy,NO,0,0,11,1,3.0,4,1
+69,South,Product Support,3:00 PM,Incoming,D,Randy,NO,0,0,9,1,3.0,3,1
+70,South,Product Support,4:00 PM,Incoming,D,Karl,NO,0,0,11,1,3.0,3,1
+71,South,Product Support,5:00 PM,Incoming,D,Randy,NO,0,0,12,3,3.0,4,1
+72,South,Complaint,10:00 AM,Incoming,D,Karl,NO,0,0,12,2,3.0,4,1
+73,South,Complaint,10:00 AM,Incoming,C,Susan,NO,0,0,9,3,3.0,2,1
+74,South,Complaint,12:00 PM,Incoming,C,Susan,NO,0,0,11,3,3.0,2,1
+75,South,Complaint,3:00 PM,Incoming,D,George,NO,0,0,9,3,3.0,4,1
+76,South,Complaint,5:00 PM,Incoming,C,Sharon,NO,0,0,11,3,3.0,4,1
+77,South,Complaint,4:00 PM,Incoming,D,Randy,NO,0,1,12,1,4.0,4,1
+78,South,Sales Support,10:00 AM,Incoming,D,Randy,NO,0,0,11,1,4.0,4,1
+79,South,Sales Support,10:00 AM,Incoming,C,Eric,NO,0,0,8,1,4.0,3,1
+80,South,Sales Support,11:00 AM,Incoming,D,Helga,NO,0,0,9,2,4.0,3,1
+81,South,Sales Support,12:00 PM,Incoming,C,Sandy,NO,0,0,12,1,4.0,3,1
+82,South,Sales Support,12:00 PM,Incoming,C,Eric,NO,0,0,9,2,4.0,3,1
+83,South,Sales Support,12:00 PM,Incoming,D,Helga,NO,0,0,12,2,4.0,4,1
+84,South,Sales Support,12:00 PM,Incoming,C,Sharon,NO,0,0,12,3,4.0,3,1
+85,South,Sales Support,1:00 PM,Incoming,C,Sharon,NO,0,0,8,2,4.0,4,1
+86,South,Sales Support,3:00 PM,Incoming,C,Sandy,NO,0,0,12,1,4.0,4,1
+87,South,Sales Support,4:00 PM,Incoming,D,Karl,NO,0,0,9,3,4.0,3,1
+88,South,Sales Support,4:00 PM,Incoming,D,Josh,YES,0,0,11,3,4.0,2,1
+89,South,Product Support,11:00 AM,Incoming,D,Kate,NO,0,0,9,1,4.0,3,1
+90,South,Product Support,12:00 PM,Incoming,D,Josh,NO,0,0,8,1,4.0,3,1
+91,South,Product Support,12:00 PM,Incoming,D,Helga,NO,0,0,9,1,4.0,3,1
+92,South,Product Support,2:00 PM,Incoming,D,George,NO,0,0,9,1,4.0,2,1
+93,South,Product Support,2:00 PM,Incoming,C,Susan,NO,0,0,8,3,4.0,4,1
+94,South,Product Support,3:00 PM,Incoming,D,Randy,NO,0,0,9,2,4.0,4,1
+95,South,Product Support,3:00 PM,Incoming,D,Josh,NO,0,0,8,2,4.0,4,1
+96,South,Product Support,3:00 PM,Incoming,D,Josh,NO,0,0,11,1,4.0,3,1
+97,South,Product Support,3:00 PM,Incoming,D,Josh,NO,0,0,12,1,4.0,2,1
+98,South,Product Support,3:00 PM,Incoming,C,Susan,NO,0,0,11,3,4.0,3,1
+99,South,Product Support,3:00 PM,Incoming,D,George,NO,0,0,12,2,4.0,2,1
+100,South,Product Support,4:00 PM,Incoming,C,Susan,NO,0,0,10,2,4.0,4,1
+101,South,Product Support,4:00 PM,Incoming,D,George,NO,0,0,12,3,4.0,3,1
+102,South,Product Support,5:00 PM,Incoming,C,Eric,NO,0,0,12,1,4.0,3,1
+103,South,Complaint,11:00 AM,Incoming,D,Josh,NO,0,0,8,3,4.0,4,1
+104,South,Complaint,12:00 PM,Incoming,D,Karl,NO,0,0,9,3,4.0,3,1
+105,South,Complaint,2:00 PM,Incoming,D,Kate,NO,0,0,9,3,4.0,3,1
+106,South,Complaint,4:00 PM,Incoming,D,George,NO,0,0,12,3,4.0,3,1
+107,South,Sales Support,10:00 AM,Incoming,D,Josh,YES,0,0,11,1,5.0,3,1
+108,South,Sales Support,10:00 AM,Incoming,D,Helga,NO,0,0,8,3,5.0,3,1
+109,South,Sales Support,12:00 PM,Incoming,C,Sharon,NO,0,0,11,1,5.0,2,1
+110,South,Sales Support,1:00 PM,Incoming,C,Sharon,NO,0,0,8,1,5.0,2,1
+111,South,Product Support,11:00 AM,Incoming,C,Sandy,NO,0,0,8,2,5.0,2,1
+112,South,Product Support,2:00 PM,Incoming,D,Kate,NO,0,0,8,2,5.0,3,1
+113,South,Product Support,2:00 PM,Incoming,C,Eric,NO,0,0,8,1,5.0,3,1
+114,South,Product Support,2:00 PM,Incoming,D,Karl,NO,0,0,11,3,5.0,2,1
+115,South,Product Support,2:00 PM,Incoming,D,Randy,NO,0,0,8,1,5.0,2,1
+116,South,Product Support,4:00 PM,Incoming,C,Susan,NO,0,0,8,2,5.0,4,1
+117,South,Product Support,5:00 PM,Incoming,D,Randy,NO,0,0,10,1,5.0,3,1
+118,South,Complaint,9:00 AM,Incoming,D,Helga,NO,0,0,8,2,5.0,2,1
+119,South,Complaint,10:00 AM,Incoming,D,Kate,NO,0,0,12,3,5.0,3,1
+120,South,Complaint,11:00 AM,Incoming,D,George,NO,0,0,12,1,5.0,4,1
+121,South,Complaint,1:00 PM,Incoming,D,Randy,NO,0,0,10,2,5.0,4,1
+122,South,Complaint,2:00 PM,Incoming,C,Alice,NO,0,0,11,3,5.0,3,1
+123,South,Complaint,3:00 PM,Incoming,D,Kate,NO,0,0,10,2,5.0,3,1
+124,South,Complaint,4:00 PM,Incoming,C,Sandy,NO,0,0,9,3,5.0,3,1
+125,South,Complaint,5:00 PM,Incoming,D,George,NO,0,0,12,1,5.0,4,1
+126,South,Product Support,9:00 AM,Outgoing,C,Sandy,NO,1,0,12,2,,4,1
+127,South,Product Support,9:00 AM,Outgoing,C,Susan,NO,1,0,9,3,,4,1
+128,South,Product Support,9:00 AM,Outgoing,D,Karl,NO,1,0,9,3,,4,1
+129,South,Sales Support,10:00 AM,Outgoing,C,Susan,NO,1,0,8,2,,4,1
+130,South,Sales Support,11:00 AM,Outgoing,D,Josh,NO,1,0,9,2,,4,1
+131,South,Sales Support,12:00 PM,Outgoing,D,Josh,NO,1,0,12,1,,3,1
+132,South,Sales Support,12:00 PM,Outgoing,C,Sharon,NO,1,0,11,2,,4,1
+133,South,Product Support,1:00 PM,Outgoing,D,Randy,NO,1,0,9,1,,3,1
+134,South,Product Support,5:00 PM,Outgoing,D,Josh,NO,1,0,9,1,,4,1
+135,South,Product Support,5:00 PM,Outgoing,D,Randy,NO,1,0,9,3,,2,1
+136,South,Sales Support,10:00 AM,Outgoing,D,Helga,NO,0,1,9,1,,4,1
+137,South,Sales Support,10:00 AM,Outgoing,C,Sharon,NO,0,1,9,1,,3,1
+138,South,Product Support,3:00 PM,Outgoing,D,Helga,NO,0,1,12,1,,2,1
+139,South,Sales Support,10:00 AM,Outgoing,D,George,NO,0,0,8,3,,2,1
+140,South,Sales Support,10:00 AM,Outgoing,D,Karl,NO,0,0,11,2,,2,1
+141,South,Sales Support,10:00 AM,Outgoing,D,Kate,NO,0,0,10,2,,2,1
+142,South,Sales Support,10:00 AM,Outgoing,D,Randy,NO,0,0,11,1,,3,1
+143,South,Sales Support,10:00 AM,Outgoing,C,Eric,NO,0,0,11,1,,3,1
+144,South,Sales Support,10:00 AM,Outgoing,C,Sandy,NO,0,0,12,3,,2,1
+145,South,Sales Support,10:00 AM,Outgoing,C,Alice,NO,0,0,11,2,,4,1
+146,South,Sales Support,10:00 AM,Outgoing,D,Josh,NO,0,0,10,1,,4,1
+147,South,Sales Support,10:00 AM,Outgoing,D,Karl,NO,0,0,11,3,,4,1
+148,South,Sales Support,10:00 AM,Outgoing,C,Alice,NO,0,0,11,3,,2,1
+149,South,Sales Support,10:00 AM,Outgoing,D,Karl,NO,0,0,10,3,,2,1
+150,South,Sales Support,10:00 AM,Outgoing,D,Kate,NO,0,0,12,2,,4,1
+151,South,Sales Support,10:00 AM,Outgoing,D,George,NO,0,0,11,1,,3,1
+152,South,Sales Support,10:00 AM,Outgoing,D,Karl,NO,0,0,8,2,,4,1
+153,South,Sales Support,10:00 AM,Outgoing,D,Kate,NO,0,0,9,1,,3,1
+154,South,Sales Support,10:00 AM,Outgoing,D,Karl,NO,0,0,12,1,,2,1
+155,South,Sales Support,10:00 AM,Outgoing,C,Eric,NO,0,0,10,1,,3,1
+156,South,Sales Support,10:00 AM,Outgoing,C,Alice,NO,0,0,9,1,,3,1
+157,South,Sales Support,10:00 AM,Outgoing,D,Josh,NO,0,0,11,1,,2,1
+158,South,Sales Support,10:00 AM,Outgoing,C,Sharon,NO,0,0,11,2,,4,1
+159,South,Sales Support,10:00 AM,Outgoing,D,Helga,NO,0,0,9,2,,4,1
+160,South,Sales Support,10:00 AM,Outgoing,D,Josh,YES,0,0,10,1,,4,1
+161,South,Sales Support,10:00 AM,Outgoing,D,Randy,NO,0,0,11,3,,4,1
+162,South,Sales Support,10:00 AM,Outgoing,D,Josh,YES,0,0,10,3,,4,1
+163,South,Sales Support,10:00 AM,Outgoing,D,Karl,NO,0,0,11,1,,4,1
+164,South,Sales Support,11:00 AM,Outgoing,C,Eric,NO,0,0,11,1,,4,1
+165,South,Sales Support,11:00 AM,Outgoing,D,Josh,NO,0,0,12,3,,3,1
+166,South,Sales Support,11:00 AM,Outgoing,D,Randy,NO,0,0,8,3,,2,1
+167,South,Sales Support,11:00 AM,Outgoing,C,Eric,NO,0,0,9,2,,4,1
+168,South,Sales Support,11:00 AM,Outgoing,C,Sharon,NO,0,0,8,1,,3,1
+169,South,Sales Support,11:00 AM,Outgoing,D,Josh,NO,0,0,9,3,,2,1
+170,South,Sales Support,11:00 AM,Outgoing,D,Randy,NO,0,0,8,3,,2,1
+171,South,Sales Support,11:00 AM,Outgoing,D,Randy,NO,0,0,8,2,,3,1
+172,South,Sales Support,11:00 AM,Outgoing,C,Sandy,NO,0,0,12,1,,4,1
+173,South,Sales Support,11:00 AM,Outgoing,D,Randy,NO,0,0,11,2,,2,1
+174,South,Sales Support,12:00 PM,Outgoing,D,Kate,NO,0,0,12,2,,3,1
+175,South,Sales Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,8,1,,4,1
+176,South,Sales Support,12:00 PM,Outgoing,D,Josh,NO,0,0,10,2,,4,1
+177,South,Sales Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,9,1,,4,1
+178,South,Sales Support,12:00 PM,Outgoing,D,Kate,NO,0,0,10,3,,2,1
+179,South,Sales Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,10,1,,3,1
+180,South,Sales Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,8,1,,4,1
+181,South,Sales Support,12:00 PM,Outgoing,D,Helga,NO,0,0,10,1,,2,1
+182,South,Sales Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,11,1,,3,1
+183,South,Sales Support,12:00 PM,Outgoing,D,Karl,NO,0,0,10,3,,2,1
+184,South,Sales Support,12:00 PM,Outgoing,D,Kate,NO,0,0,11,1,,4,1
+185,South,Sales Support,12:00 PM,Outgoing,C,Sharon,NO,0,0,12,1,,4,1
+186,South,Sales Support,12:00 PM,Outgoing,C,Susan,NO,0,0,10,2,,4,1
+187,South,Sales Support,12:00 PM,Outgoing,D,Josh,NO,0,0,8,3,,2,1
+188,South,Sales Support,12:00 PM,Outgoing,C,Susan,NO,0,0,8,1,,4,1
+189,South,Sales Support,12:00 PM,Outgoing,C,Eric,NO,0,0,10,1,,4,1
+190,South,Sales Support,12:00 PM,Outgoing,D,George,NO,0,0,12,1,,4,1
+191,South,Sales Support,1:00 PM,Outgoing,D,George,NO,0,0,11,1,,3,1
+192,South,Sales Support,1:00 PM,Outgoing,C,Sharon,NO,0,0,12,2,,4,1
+193,South,Sales Support,1:00 PM,Outgoing,D,Kate,NO,0,0,8,2,,2,1
+194,South,Sales Support,1:00 PM,Outgoing,D,George,NO,0,0,10,1,,3,1
+195,South,Sales Support,1:00 PM,Outgoing,C,Eric,NO,0,0,10,1,,3,1
+196,South,Sales Support,2:00 PM,Outgoing,D,Helga,NO,0,0,8,2,,4,1
+197,South,Sales Support,2:00 PM,Outgoing,D,Helga,NO,0,0,9,1,,3,1
+198,South,Sales Support,3:00 PM,Outgoing,D,George,NO,0,0,8,1,,3,1
+199,South,Sales Support,3:00 PM,Outgoing,D,Helga,NO,0,0,8,1,,4,1
+200,South,Sales Support,4:00 PM,Outgoing,D,Kate,NO,0,0,11,3,,3,1
+201,South,Sales Support,4:00 PM,Outgoing,D,Helga,NO,0,0,8,1,,4,1
+202,South,Sales Support,5:00 PM,Outgoing,D,Helga,NO,0,0,9,3,,2,1
+203,South,Sales Support,5:00 PM,Outgoing,C,Eric,NO,0,0,12,3,,4,1
+204,South,Product Support,10:00 AM,Outgoing,D,Kate,NO,0,0,9,3,,2,1
+205,South,Product Support,10:00 AM,Outgoing,C,Sandy,NO,0,0,10,3,,2,1
+206,South,Product Support,10:00 AM,Outgoing,D,Josh,NO,0,0,10,1,,4,1
+207,South,Product Support,10:00 AM,Outgoing,D,George,NO,0,0,8,2,,4,1
+208,South,Product Support,10:00 AM,Outgoing,C,Alice,NO,0,0,9,2,,2,1
+209,South,Product Support,10:00 AM,Outgoing,C,Alice,NO,0,0,8,2,,2,1
+210,South,Product Support,10:00 AM,Outgoing,D,Karl,NO,0,0,8,3,,3,1
+211,South,Product Support,11:00 AM,Outgoing,D,Josh,NO,0,0,11,2,,3,1
+212,South,Product Support,11:00 AM,Outgoing,D,Kate,NO,0,0,11,1,,2,1
+213,South,Product Support,11:00 AM,Outgoing,C,Sharon,NO,0,0,12,1,,2,1
+214,South,Product Support,11:00 AM,Outgoing,D,George,NO,0,0,12,1,,2,1
+215,South,Product Support,11:00 AM,Outgoing,C,Sandy,NO,0,0,11,1,,4,1
+216,South,Product Support,11:00 AM,Outgoing,C,Sharon,NO,0,0,12,1,,3,1
+217,South,Product Support,11:00 AM,Outgoing,C,Sharon,NO,0,0,9,1,,4,1
+218,South,Product Support,11:00 AM,Outgoing,D,Helga,NO,0,0,8,1,,4,1
+219,South,Product Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,9,1,,4,1
+220,South,Product Support,12:00 PM,Outgoing,D,Helga,NO,0,0,11,2,,3,1
+221,South,Product Support,12:00 PM,Outgoing,D,Randy,NO,0,0,9,2,,4,1
+222,South,Product Support,12:00 PM,Outgoing,D,Kate,NO,0,0,9,3,,2,1
+223,South,Product Support,12:00 PM,Outgoing,D,Randy,NO,0,0,10,1,,2,1
+224,South,Product Support,12:00 PM,Outgoing,D,George,NO,0,0,9,3,,4,1
+225,South,Product Support,12:00 PM,Outgoing,C,Sharon,NO,0,0,11,1,,3,1
+226,South,Product Support,12:00 PM,Outgoing,C,Sharon,NO,0,0,12,1,,2,1
+227,South,Product Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,12,3,,3,1
+228,South,Product Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,12,3,,4,1
+229,South,Product Support,12:00 PM,Outgoing,C,Susan,NO,0,0,12,1,,2,1
+230,South,Product Support,12:00 PM,Outgoing,D,Karl,NO,0,0,8,1,,3,1
+231,South,Product Support,12:00 PM,Outgoing,D,George,NO,0,0,12,2,,4,1
+232,South,Product Support,12:00 PM,Outgoing,C,Sandy,NO,0,0,12,2,,2,1
+233,South,Product Support,12:00 PM,Outgoing,D,Randy,NO,0,0,10,3,,2,1
+234,South,Product Support,12:00 PM,Outgoing,D,Karl,NO,0,0,11,1,,4,1
+235,South,Product Support,12:00 PM,Outgoing,D,Helga,NO,0,0,8,3,,2,1
+236,South,Product Support,12:00 PM,Outgoing,D,Karl,NO,0,0,11,1,,3,1
+237,South,Product Support,12:00 PM,Outgoing,C,Alice,NO,0,0,12,3,,2,1
+238,South,Product Support,12:00 PM,Outgoing,D,Kate,NO,0,0,12,2,,3,1
+239,South,Product Support,12:00 PM,Outgoing,C,Susan,NO,0,0,11,3,,2,1
+240,South,Product Support,12:00 PM,Outgoing,D,Karl,NO,0,0,12,3,,4,1
+241,South,Product Support,12:00 PM,Outgoing,D,Helga,NO,0,0,9,2,,2,1
+242,South,Product Support,12:00 PM,Outgoing,C,Alice,NO,0,0,8,2,,2,1
+243,South,Product Support,12:00 PM,Outgoing,C,Sharon,NO,0,0,10,1,,2,1
+244,South,Product Support,12:00 PM,Outgoing,D,Karl,YES,0,0,10,3,,3,1
+245,South,Product Support,12:00 PM,Outgoing,D,Karl,NO,0,0,12,3,,2,1
+246,South,Product Support,12:00 PM,Outgoing,D,Kate,NO,0,0,8,3,,4,1
+247,South,Product Support,12:00 PM,Outgoing,D,Josh,NO,0,0,10,2,,4,1
+248,South,Product Support,12:00 PM,Outgoing,D,Helga,NO,0,0,10,1,,2,1
+249,South,Product Support,12:00 PM,Outgoing,D,Kate,NO,0,0,12,3,,2,1
+250,South,Product Support,1:00 PM,Outgoing,D,Kate,NO,0,0,10,3,,4,1
+251,South,Product Support,1:00 PM,Outgoing,C,Susan,NO,0,0,10,3,,3,1
+252,South,Product Support,1:00 PM,Outgoing,D,Karl,YES,0,0,11,1,,2,1
+253,South,Product Support,1:00 PM,Outgoing,C,Sharon,NO,0,0,8,1,,3,1
+254,South,Product Support,1:00 PM,Outgoing,C,Sandy,NO,0,0,12,3,,3,1
+255,South,Product Support,1:00 PM,Outgoing,C,Sharon,NO,0,0,10,1,,2,1
+256,South,Product Support,1:00 PM,Outgoing,D,George,NO,0,0,9,3,,3,1
+257,South,Product Support,2:00 PM,Outgoing,C,Susan,NO,0,0,12,1,,4,1
+258,South,Product Support,2:00 PM,Outgoing,C,Sharon,NO,0,0,10,1,,4,1
+259,South,Product Support,2:00 PM,Outgoing,C,Susan,NO,0,0,12,2,,4,1
+260,South,Product Support,2:00 PM,Outgoing,C,Sandy,NO,0,0,9,2,,2,1
+261,South,Product Support,2:00 PM,Outgoing,D,Helga,NO,0,0,9,3,,2,1
+262,South,Product Support,2:00 PM,Outgoing,C,Susan,NO,0,0,11,1,,2,1
+263,South,Product Support,2:00 PM,Outgoing,C,Susan,NO,0,0,11,2,,3,1
+264,South,Product Support,2:00 PM,Outgoing,C,Susan,NO,0,0,9,1,,3,1
+265,South,Product Support,2:00 PM,Outgoing,D,Randy,NO,0,0,12,2,,2,1
+266,South,Product Support,2:00 PM,Outgoing,D,Randy,NO,0,0,10,2,,3,1
+267,South,Product Support,2:00 PM,Outgoing,D,Helga,NO,0,0,9,2,,4,1
+268,South,Product Support,2:00 PM,Outgoing,C,Eric,NO,0,0,10,1,,3,1
+269,South,Product Support,2:00 PM,Outgoing,C,Sharon,NO,0,0,12,3,,2,1
+270,South,Product Support,2:00 PM,Outgoing,C,Alice,NO,0,0,9,3,,3,1
+271,South,Product Support,3:00 PM,Outgoing,C,Alice,NO,0,0,11,1,,3,1
+272,South,Product Support,3:00 PM,Outgoing,C,Sandy,NO,0,0,11,3,,3,1
+273,South,Product Support,3:00 PM,Outgoing,D,Karl,NO,0,0,10,1,,2,1
+274,South,Product Support,3:00 PM,Outgoing,D,Kate,NO,0,0,12,1,,3,1
+275,South,Product Support,3:00 PM,Outgoing,C,Sandy,NO,0,0,10,1,,2,1
+276,South,Product Support,3:00 PM,Outgoing,D,Karl,NO,0,0,10,3,,2,1
+277,South,Product Support,3:00 PM,Outgoing,C,Alice,NO,0,0,8,2,,3,1
+278,South,Product Support,3:00 PM,Outgoing,C,Sharon,NO,0,0,11,2,,4,1
+279,South,Product Support,3:00 PM,Outgoing,D,Josh,NO,0,0,12,3,,3,1
+280,South,Product Support,3:00 PM,Outgoing,C,Eric,NO,0,0,11,3,,2,1
+281,South,Product Support,3:00 PM,Outgoing,D,Randy,NO,0,0,8,3,,2,1
+282,South,Product Support,3:00 PM,Outgoing,D,Helga,NO,0,0,12,3,,2,1
+283,South,Product Support,3:00 PM,Outgoing,D,Kate,NO,0,0,10,2,,4,1
+284,South,Product Support,3:00 PM,Outgoing,C,Eric,NO,0,0,9,1,,3,1
+285,South,Product Support,3:00 PM,Outgoing,C,Alice,NO,0,0,10,2,,2,1
+286,South,Product Support,3:00 PM,Outgoing,D,Helga,NO,0,0,10,1,,2,1
+287,South,Product Support,3:00 PM,Outgoing,D,Randy,NO,0,0,8,3,,3,1
+288,South,Product Support,3:00 PM,Outgoing,D,Kate,NO,0,0,9,3,,4,1
+289,South,Product Support,3:00 PM,Outgoing,C,Susan,NO,0,0,11,1,,3,1
+290,South,Product Support,3:00 PM,Outgoing,D,George,NO,0,0,9,1,,3,1
+291,South,Product Support,4:00 PM,Outgoing,D,Josh,NO,0,0,9,1,,3,1
+292,South,Product Support,4:00 PM,Outgoing,C,Alice,NO,0,0,11,2,,4,1
+293,South,Product Support,4:00 PM,Outgoing,C,Eric,NO,0,0,11,1,,4,1
+294,South,Product Support,4:00 PM,Outgoing,D,Randy,NO,0,0,8,1,,2,1
+295,South,Product Support,4:00 PM,Outgoing,C,Alice,NO,0,0,11,3,,4,1
+296,South,Product Support,4:00 PM,Outgoing,C,Eric,NO,0,0,11,2,,2,1
+297,South,Product Support,4:00 PM,Outgoing,D,George,NO,0,0,11,1,,3,1
+298,South,Product Support,4:00 PM,Outgoing,D,Helga,NO,0,0,9,3,,4,1
+299,South,Product Support,4:00 PM,Outgoing,C,Eric,NO,0,0,9,2,,4,1
+300,South,Product Support,4:00 PM,Outgoing,D,George,NO,0,0,9,2,,2,1
+301,South,Product Support,4:00 PM,Outgoing,D,Karl,NO,0,0,11,3,,2,1
+302,South,Product Support,5:00 PM,Outgoing,C,Eric,NO,0,0,10,2,,4,1
+303,South,Product Support,5:00 PM,Outgoing,C,Eric,NO,0,0,12,1,,3,1
+304,South,Product Support,5:00 PM,Outgoing,D,George,NO,0,0,12,2,,3,1
+305,South,Product Support,5:00 PM,Outgoing,C,Alice,NO,0,0,9,3,,4,1
+306,South,Product Support,5:00 PM,Outgoing,D,Josh,NO,0,0,9,2,,4,1
+307,South,Product Support,5:00 PM,Outgoing,D,Randy,NO,0,0,9,1,,3,1
+308,South,Product Support,5:00 PM,Outgoing,C,Eric,NO,0,0,11,1,,4,1
+309,South,Product Support,5:00 PM,Outgoing,D,Helga,NO,0,0,10,3,,4,1
+310,South,Product Support,5:00 PM,Outgoing,C,Susan,NO,0,0,12,3,,4,1
+311,South,Product Support,5:00 PM,Outgoing,C,Sandy,NO,0,0,9,3,,4,1
+312,South,Product Support,5:00 PM,Outgoing,C,Eric,NO,0,0,10,1,,2,1
+313,South,Product Support,5:00 PM,Outgoing,D,George,NO,0,0,10,2,,3,1
